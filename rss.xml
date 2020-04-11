@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>The Professor Explains</title>
+        <link>http://professor-explains.world/</link>
+        <description>Der Professor erklärt die Welt. Alles von Allgemeinbildung bis hin zu skurrilen Themen.</description>
+        <generator>Hugo 0.68.3 https://gohugo.io/</generator>
+        
+            <language>de</language>
+        
+        
+            <managingEditor>professor-explains@protonmail.com (The Professor)</managingEditor>
+        
+        
+            <webMaster>professor-explains@protonmail.com (The Professor)</webMaster>
+        
+        
+        <lastBuildDate>Sun, 12 Apr 2020 00:07:34 +0200</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss+xml" href="http://professor-explains.world/rss.xml" />
+        
+        
+            <item>
+                <title>Der Betriebsrat</title>
+                <link>http://professor-explains.world/posts/arbeitsrecht/03-betriebsrat/</link>
+                <guid isPermaLink="true">http://professor-explains.world/posts/arbeitsrecht/03-betriebsrat/</guid>
+                <pubDate>Sat, 11 Apr 2020 12:32:38 +0200</pubDate>
+                
+                    <author>professor-explains@protonmail.com (The Professor)</author>
+                
+                
+                
+                    <description><![CDATA[<p>Nachdem wir uns in den letzten 2 Artikeln die Grundlagen, Arten von Arbeitnehmern und Kollektivverträge angeschaut haben, schauen wir uns nun eines der wichtigsten Interessensvertretungen der Arbeitnehmer auf Betriebsebene an, <strong>den Betriebsrat (BR)</strong>.</p>
+<p>Der Betriebsrat hat zahlreiche Rechte und Pflichten, er wirkt beim Abschluss von Betriebsvereinbarungen mit, bei Kündigungen, Entlassungen und Versetzungen und er nimmt Teil an Aufsichtsratssitzungen.</p>
+<h3 id="allgemeines-zum-betriebsrat">Allgemeines zum Betriebsrat</h3>
+<p>Der Betriebsrat ist der gesetzliche Interessenvertreter des Arbeitnehmers, du seinen Pflichten zählt auch der Schutz des einzelnen Arbeitnehmers der durch die Entscheidungen des Arbeitsgebers benachteiligt wurde. Die 4 Hauptaufgaben des BRs sind <em>Überwachen, Schützen, Gestalten und Fördern</em>.</p>
+<p>Der BR wird alle 5 Jahre von allen Arbeitnehmern gewählt welche mindestens 18 Jahre alt sind. Die Errichtung, Organisation und Abwicklung des Betriebsrates und der Betriebsratswahl ist Sache der Arbeitnehmer und nicht des Arbeitgebers.</p>
+<p>In einem Betrieb müssen mindestens 5 familienfremde und stimmberechtigte Arbeitnehmer beschäftigt werden damit eine Wahl stattfinden kann, jedoch zählen nicht nur Vollzeitangestellte, auch Teilzeitbeschäftigte, Geringfügig Beschäftigte, Arbeitnehmer in Karenz, Mitarbeiter in Präsenz-, oder Zivildienst und ebenfalls überlassene Arbeitskräfte welche mehr als ein halbes Jahr im Betrieb sind (In meinem vorherigen Artikel haben wir bereits über Arbeitskräfteüberlassung geredet).</p>
+<p>Wenn in einem Betrieb mindestens 5 Arbeiter und 5 Angestellte arbeiten, so sind 2 getrennte Betriebsräte einzurichten, umfasst eine der Gruppen weniger als 5, so ist ein gemeinsamer Betriebsrat zu errichten.</p>
+<p>Die Anzahl der Betriebsratsmitglieder ist abhängig von der Anzahl der Arbeitnehmer:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Anzahl der AN</th>
+<th align="center">Anzahl der BR Mitglieder</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">5-9</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">10-19</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">20-50</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="center">51-100</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">+ 100</td>
+<td align="center">+1 BR Mitglied</td>
+</tr>
+</tbody>
+</table>
+<p>Die Mitglieder des Betriebsrates dürfen weder bevorteilt noch benachteiligt werden durch ihre Tätigkeit, daher unterliegen sie einem speziellen Benachteiligungsverbot und haben besonderen Kündigung- und Entlassungsschutz.</p>
+<h3 id="pflichten-des-betriebsrates">Pflichten des Betriebsrates</h3>
+<p>Der Betriebsrat hat unzählige Rechte und Pflichten. Er vertritt vor allem die Belegschaft gegenüber der Betriebsleitung und sorgt für die Einhaltung der Kollektivverträge und Betriebsvereinbarungen, bei welchen er ebenfalls mitwirkt.</p>
+<p>Er reicht Vorschläge zur Verbesserung der Arbeitsbedingungen und Sicherheit ein und hat ein Mitspracherecht bei der Gestaltung der Arbeitsplätze, sowie bei Personal- und Wirtschaftsangelegenheiten.</p>
+<p>Im Falle von Kündigungen und Entlassungen hat der BR ein Recht auf eine Stellungnahme und kann die Kündigung auch vor Gericht einklagen. Er kann ebenfalls unter gewissen Voraussetzungen Versetzungen verhindern und hat ein Recht darauf vom Arbeitgeber über alle, die Arbeitnehmer betreffenden, Angelegenheiten informiert zu werden.</p>
+<h3 id="betriebsvereinbarungen">Betriebsvereinbarungen</h3>
+<p>Betriebsvereinbarungen sind schriftliche Vereinbarungen zwischen dem Betriebsinhaber und dem Betriebsrat. Gegenstand der Vereinbarungen können alle, im Gesetzt oder Kollektivvertrag festgelegten Regelungen sein bei denen der Abschluss einer Betriebsvereinbarung zulässig ist.</p>
+<p>Die Betriebsvereinbarung darf gegen keine höherrangige Vorschrift verstoßen und wird wirksam durch Kundmachung im Betrieb. Alle Arten von Betriebsvereinbarungen können befristet oder unbefristet abgeschlossen werden. Befristet abgeschlossene Betriebsvereinbarungen enden ohne weiteres Zutun automatisch mit Fristende, ohne dass eine Kündigung ausgesprochen werden muss.</p>
+<h5 id="notwendige-fakultative-betriebsvereinbarungen">Notwendige, Fakultative Betriebsvereinbarungen</h5>
+<p>Notwendige fakultative (Freiwillige) Betriebsvereinbarungen betreffen Inhalte, die zu ihrer Rechtswirksamkeit die Zustimmung des Betriebsrates benötigen, z.B.: Betriebliche  Disziplinarordnungen, oder Fragebögen mit Fragen über Meinungen oder persönliche Umstände. Die Entscheidung kann nicht durch die Schlichtungsstelle erzwungen werden.</p>
+<p>Die notwendige, freiwillige BV ist jederzeit kündbar ohne Nachwirkungen.</p>
+<h5 id="notwendige-erzwingbare-betriebsvereinbarung">Notwendige, Erzwingbare Betriebsvereinbarung</h5>
+<p>Notwendige, Erzwingbare Betriebsvereinbarungen können ohne die Zustimmung des BR oder des Arbeitgebers erfolgen. Die jeweilige Zustimmung wird hier von der Schlichtungsstelle des Arbeits- und Sozialgerichtes erteilt.</p>
+<p>Gegenstand solcher Vereinbarungen sind z.B.: Systeme zur Überwachung der Arbeitnehmer.</p>
+<p>Die notwendige, erzwingbare Betriebsvereinbarung ist nicht kündbar, und besitzt keine Nachwirkungen.</p>
+<h5 id="disponibel-erzwingbare-betriebsvereinbarung">Disponibel, erzwingbare Betriebsvereinbarung</h5>
+<p>Regelungen können über eine Betriebsvereinbarung geregelt werden, müssen aber nicht. Der Arbeitgeber kann diese auch mittels Dienstvertrag regeln. Wenn er sie aber über die Betriebsvereinbarung regeln möchte, so kann er die Entscheidung durch die Schlichtungsstelle erzwingen.</p>
+<p>Die Disponibel, erzwingbare Betriebsvereinbarung ist nicht kündbar, und besitzt keine Nachwirkungen.</p>
+<h5 id="fakultative-betriebsvereinbarung">Fakultative Betriebsvereinbarung</h5>
+<p>Fakultative (Freiwillige) Betriebsvereinbarung benötigen keine Zustimmung und können auch nicht durch die Schlichtungsstelle erzwungen werden.</p>
+<p>Sie sind jederzeit kündbar, haben jedoch Nachwirkungen (gelten z.B.: immer noch für alte Verträge).</p>
+<h4 id="generelle-beendigung-der-bv">Generelle Beendigung der BV</h4>
+<p>Durch Auflösung des Unternehmens, Abschluss einer neuen Betriebsvereinbarung über das selbe Thema oder eine Entscheidung der Schlichtungsstelle wird die Betriebsvereinbarung ungültig. Umstrukturierungen sind hierbei Sonderfälle.</p>
+<h3 id="abschließende-worte">Abschließende Worte</h3>
+<p>In diesem Artikel haben wir uns also den Betriebsrat und die Betriebsvereinbarungen genauer angeschaut und herausgefunden welchen Zweck sie dienen.</p>
+<p>Im nächsten Artikel schauen wir uns die Rechte und Pflichten eines Arbeitnehmers an.</p>
+<h3 id="links--ressourcen">Links &amp; Ressourcen</h3>
+<ul>
+<li><a href="https://www.arbeiterkammer.at/index.html">Arbeiterkammer</a></li>
+<li><a href="https://www.wko.at/">WKO</a></li>
+<li>Arbeits- und Sozialrecht, Panic Harun</li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/categories/arbeitsrecht/">Arbeitsrecht</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/arbeitsrecht/">Arbeitsrecht</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Arten von Arbeitnehmer und der Kollektivvertrag</title>
+                <link>http://professor-explains.world/posts/arbeitsrecht/02-kollektivvertrag/</link>
+                <guid isPermaLink="true">http://professor-explains.world/posts/arbeitsrecht/02-kollektivvertrag/</guid>
+                <pubDate>Thu, 09 Apr 2020 09:19:09 +0200</pubDate>
+                
+                    <author>professor-explains@protonmail.com (The Professor)</author>
+                
+                
+                
+                    <description><![CDATA[<p>Nicht jeder Arbeitnehmer ist gleich und nicht jedes Angestelltenverhältnis ist gleich. Von leitenden Angestellten über Freie Dienstnehmer bis hin zu Selbstständigen gibt es die unterschiedlichsten Varianten und Kombinationen in Österreich. In diesem Artikel werden wir uns die verschiedenen Arten von Arbeitnehmern anschauen, außerdem schauen wir uns an wie ein Kollektivvertrag eigentlich aussieht und funktioniert.</p>
+<h3 id="arten-von-angestellten">Arten von Angestellten</h3>
+<p>Abgesehen vom klassischen Angestellten gibt es 2 weitere Arten in Österreich, den <em>Leitenden Angestellten</em> und den <em>Angestellten ex contractu</em> (=laut Vertrag).</p>
+<h5 id="leitender-angestellter">Leitender Angestellter</h5>
+<p>Ein Leitender Angestellter ist zwar angestellt, wird allerdings aufgrund seiner Rechten und Pflichten eher der Arbeitgeber Seite zugeordnet als der Arbeitnehmerseite. Leitende Angestellte sind, aufgrund ihrer maßgeblichen Führungsaufgabe vom Arbeitszeitgesetzt (AZG) und dem Arbeitsruhegesetz (ARG) ausgenommen. Des weiteren sind leitende Angestellte auch von der Betriebsvereinbarung ausgeschlossen sowie vom allgemeinen Kündigungsschutz.</p>
+<p>Es ist jedoch nicht einheitlich definiert was genau ein <em>leitender Angestellter</em> ist - hierzu gibt es sowohl im Arbeitsverfassungsgesetz (ArbVG) und im Arbeitszeitgesetz unterschiedliche Regelungen. Grundsätzlich hängt es allerdings davon ab ob ein Angestellter <em>wesentliche</em> Teilbereiche eines Betriebes <em>eigenverantwortlich</em> leitet, dass dadurch <em>Einfluss</em> auf das gesamte Unternehmen genommen wird und er sich durch seine Position von den anderen Angestellten <em>heraushebt</em>.</p>
+<h5 id="angestellter-ex-contractu">Angestellter ex contractu</h5>
+<p>Ein Angestellter ex contractu, auch Vertragsangestellter genannt, sind Arbeitnehmer die zwar Tätigkeiten ausführen welche üblicherweise von einem Arbeiter gemacht werden, aber aufgrund vertraglicher Vereinbarungen wie Angestellte behandelt werden.</p>
+<h3 id="sonstige-arten-von-arbeitnehmern">Sonstige Arten von Arbeitnehmern</h3>
+<h5 id="arbeiter">Arbeiter</h5>
+<p>Der Klassische Arbeiter ist jeder Arbeitnehmer, welche weder <strong>kaufmännische</strong> noch <strong>höhere nicht kaufmännische</strong> dienste, noch zu <strong>Kanzleiarbeit</strong> durchführt. Im Vordergrund stehen, wie bereits erwähnt, die manuelle Tätigkeit (z.B.: Kellner oder Friseur).</p>
+<p>Für Arbeiter gilt die Gewerbeordnung (GewO), das Allgemeine Bürgerliche Gesetzbuch (ABGB), sowie zahlreiche Gesetze welche für Angestellte und Arbeiter gelten (AZG, ARG, UrlG,&hellip;etc).</p>
+<p>Grundsätzlich muss es in einem Unternehmen getrennte betriebsrätliche Vertretungen für Arbeiter und Angestellte geben.</p>
+<h5 id="freier-dienstnehmer">Freier Dienstnehmer</h5>
+<p>Der freie Dienstnehmer steht in einem Dauerschuldverhältnis zum Vertragspartner, ist aber entgegengesetzt zum Angestellten nicht Weisungsgebunden und frei von Beschränkungen des persönlichen Verhaltens. Er kann den Ablauf der Arbeit selbstständig regeln und wird bezahlt für die Arbeitsdauer und nicht für das Werkstück.</p>
+<p>Der freie Dienstnehmer wird nicht in die betriebliche Organisation eingegliedert und hat auch nur eingeschränkte persönliche Arbeitspflicht. Beispiele für einen freien Dienstnehmer wären ein externer Vortragender an eine Hochschule oder ein Betriebsarzt.</p>
+<h5 id="selbstständiger-werkvertrag">Selbstständiger (Werkvertrag)</h5>
+<p>§ 1151 ABGB Dienst- und Werkvertrag.</p>
+<blockquote>
+<p>(1) Wenn jemand sich auf eine gewisse Zeit zur Dienstleistung für einen anderen verpflichtet, so entsteht ein Dienstvertrag; wenn jemand die Herstellung eines Werkes gegen Entgelt übernimmt, ein Werkvertrag.</p>
+</blockquote>
+<p>Bei einem Werkvertrag verpflichtet sich der Vertragspartner ein gewisses <strong>Werk</strong> für jemand anderen gegen Entgelt herzustellen. Der Vertrag endet mit der Leistungserbringung (=<em>Zielschuldverhältnis</em>) und es besteht keine persönliche Arbeitspflicht (Vertretungsrecht). Beim Werkvertrag gibt es keine persönliche Abhängigkeit, keine Einordnung in die betriebliche Organisation, komplett freie Wahl der Arbeitszeit und des Dienstortes - allerdings <strong>haftet</strong> der Werknehmer für den <strong>Erfolg</strong></p>
+<h3 id="arbeitskräfteüberlassung">Arbeitskräfteüberlassung</h3>
+<p>Die Arbeitskräfteüberlassung ist, logischerweise, die Zurverfügungstellung von Arbeitskräften zur Arbeitsleistung an Dritte. Bei gewerbsmäßiger Arbeitskräfteüberlassung bedarf es einer Gewerbeberechtigung für die Überlassung von Arbeitskräften (= wenn die Arbeitskräfteüberlassung das Hauptgeschäft des Unternehmens ist). Für die Auszahlung des Entgeltes und der Sozialversicherungsbeiträge ist die überlassende Firma zuständig (nicht die Zielfirma der Arbeitskräfteüberlassung).</p>
+<p>Für die Arbeitskräfteüberlassung gibt es einige Sonderregelungen:</p>
+<ul>
+<li>Überlassende Arbeitskräfte haben einen Anspruch auf jenes kollektivvertragliche Entgelt welches auch die Stammbelegschaft im Betrieb erhält</li>
+<li>Besteht eine Betriebspensionsregelung im Betrieb ist die überlassende Arbeitskraft nach spätestens 4 Jahren in diese Regelung einzubeziehen</li>
+<li>Überlassene Arbeitskräfte müssen den gleichen Zugang zu Einrichtungen und Maßnahmen des Betriebes haben (z.B.: Kantine oder Betriebskindergarten)</li>
+<li>Die überlassene Arbeitskraft muss in den Betrieb eingegliedert werden</li>
+</ul>
+<p>Arbeitskräfteüberlassung liegt ebenfalls vor, wenn eine Arbeitskraft im Zielbetrieb einen Werkvertrag erfüllt, aber:</p>
+<ul>
+<li>Kein vom Kunden abweichendes Produkt, Dienstleistung oder Zwischenergebnis produziert <em>oder</em></li>
+<li>der Werkunternehmer nicht für den Erfolg der Werkleistung haftet <em>oder</em></li>
+<li>die Arbeit nicht vorwiegend mit Material und Werkzeug des Werkunternehmers geleistet wird <em>oder</em></li>
+<li>die Arbeitskraft in den Betrieb des Kunden eingegliedert ist</li>
+</ul>
+<h3 id="was-ist-ein-kollektivvertrag">Was ist ein Kollektivvertrag?</h3>
+<p>Ein Kollektivvertrag ist eine schriftliche Vereinbarung welche zwischen kollektivvertragsfähigen (=(gesetzliche Interessenvertretungen und unter bestimmten Voraussetzungen freiwillige Interessensvertretungen)Körperschaften der Arbeitgeber und Arbeitnehmer geschlossen werden (Kammern und Gewerkschaften).</p>
+<p>Die Vereinbarungen gelten innerhalb ihres Bereiches auf eine gewisse Dauer (meist 1 Jahr) und sie gelten räumlich, fachlich und persönlich.  Der KV hat eine Friedensfunktion (Streiks verhindern) und sorgt dafür, dass branchengerechte Lohn und Arbeitsbedingungen vorliegen.</p>
+<p>Der Kollektivvertrag enthält Rechten und Pflichten sowohl von Arbeitnehmer und Arbeitgeber, vorrangig Entlohnung (Mindestgehalt), Sonderzahlungen (z.B.: Urlaubsgeld) und Arbeitszeiten.</p>
+<p>Grundsätzlich gilt für einen der Kollektivvertrag des Unternehmens für das man arbeitet - sprich, wenn man als Software Entwickler in einer Steuerkanzlei angestellt ist, gilt für einen trotzdem der KV der Steuerkanzlei. Sollte ein Unternehmen zwei oder mehr Kollektivverträge haben, wird jener KV angewendet welcher am ehesten der überwiegend ausgeübten Tätigkeit entspricht.</p>
+<h3 id="abschließende-worte">Abschließende Worte</h3>
+<p>Dies war eine kurze Zusammenfassung der unterschiedlichen Arten von Arbeitnehmern, der Arbeitskräfteüberlassung sowie des Kollektivvertrages. In dem nächsten Artikel werden wir uns den Betriebsrat näher anschauen und was dieser zu tun hat in einem Unternehmen.</p>
+<h3 id="links--ressourcen">Links &amp; Ressourcen</h3>
+<ul>
+<li><a href="https://www.arbeiterkammer.at/index.html">Arbeiterkammer</a></li>
+<li><a href="https://www.wko.at/">WKO</a></li>
+<li>Arbeits- und Sozialrecht, Panic Harun</li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/categories/arbeitsrecht/">Arbeitsrecht</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/arbeitsrecht/">Arbeitsrecht</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Day-to-Day Business als Freelancer</title>
+                <link>http://professor-explains.world/posts/freelancer/02-day-to-day-business/</link>
+                <guid isPermaLink="true">http://professor-explains.world/posts/freelancer/02-day-to-day-business/</guid>
+                <pubDate>Wed, 08 Apr 2020 14:29:57 +0200</pubDate>
+                
+                    <author>professor-explains@protonmail.com (The Professor)</author>
+                
+                
+                
+                    <description><![CDATA[<p>Als Freelancer in Österreich hat man einen wesentlich höheren bürokratischen Aufwand, verglichen mit Angestellten. Man muss Rechnungen stellen, seine Umsätze richtig in FinanzOnline eintippen - darauf achten, dass die SVS Beiträge und Einkommensteuervorauszahlungen auch wirklich gezahlt werden und vieles mehr.</p>
+<p>Doch wie erstellt man eigentlich so eine Rechnung - und was gehört dort drauf?</p>
+<h3 id="das-kerngeschäft-als-freelancer---rechnungen-stellen">Das Kerngeschäft als Freelancer - Rechnungen stellen</h3>
+<p>Ohne Rechnungen gibt&rsquo;s kein Geld als Selbstständiger - daher ist es wichtig, dass du einen guten Überblick über deine gestellten und bereits bezahlten Rechnungen behälts.</p>
+<p>Deine Rechnungen kannst du theoretisch erstellen wie du willst, ob du dafür Word verwendest, oder ein Tool wie z.B.: den Rechnungsersteller von Holvi. Ich persönlich verwende <strong><a href="https://www.lanzo.at/">Lanzo</a></strong>, welches ein österreichisches Online Tool speziell für Freelancer ist, jedoch ist es jedem selbst überlassen was er hier verwendet und Word Templates für Rechnungen gibt es Online wie Sand am Meer.</p>
+<p>Viel wichtiger als das Tool welches man verwendet ist der Inhalt der Rechnung, denn hier muss man sich an einige gesetzliche Vorschriften halten. Die WKO hat eine hierzu eine <a href="https://www.wko.at/service/steuern/Erfordernisse-einer-Rechnung.html">gute Auflistung</a>, aber ich fasse hierbei nochmal die wichtigsten Punkte schnell zusammen:</p>
+<ul>
+<li>Der Name &amp; die Anschrift deines Unternehmens</li>
+<li>Der Name &amp; die Anschrift des Empfängers</li>
+<li>Menge &amp; Bezeichnung der erbrachten Leistungen</li>
+<li>Tag/Zeitraum der Leistungserfüllung</li>
+<li>Kosten der Leistungen inklusive anzuwendenden Steuersatz bzw Hinweis falls die Steuer entfällt</li>
+<li>Gesamtsteuerbetrag der erbrachten Leistungen</li>
+<li>Austellungsdatum</li>
+<li>Fortlaufende Nummer</li>
+<li>Deine eigene UID Nummer</li>
+<li>UID Nummer des Empfängers falls der Rechnungsbetrag über 10.000€ beträgt oder der Empfänger eine Firma aus dem EU-Ausland ist</li>
+</ul>
+<p>Diese Anforderungen sind teilweise der Grund warum ich ein Tool für die Rechnungserstellung verwende, da dieses automatisch all diese Informationen einfügt und die Rechnungsnummer erhöht.  Hilfreich auf der Rechnung wären außerdem die Bankdaten deines Unternehmens und das vereinbarte Zahlungsziel.</p>
+<h4 id="rechnungen-ins-eu-ausland-stellen">Rechnungen ins EU-Ausland stellen</h4>
+<p>Nehmen wir an du machst dich als Social Media Marketing Consultant Selbstständig und einer deiner Kunden ist eine kleine Fitness Firma aus Hamburg. Seit 2010 müssen Leistungen an Ihrem Erfüllung Standort versteuert werden - dies bedeutet für dich, dass du keine Umsatzsteuer in Österreich abliefern musst, sondern stattdessen geht die Steuerpflicht auf den Leistungsempfänger, in diesem Beispiel die Fitness Firma aus Hamburg über, sprich du stellst deine Rechnung aus mit 0% Umsatzsteuer.</p>
+<p>Um allerdings wirklich von der Steuer befreit zu werden musst du dich an ein paar Regelungen halten.</p>
+<p>Deine Rechnung muss folgenden Text enthalten:</p>
+<p><em>Umsatzsteuerfreie innergemeinschaftliche Lieferung - Übergang der Steuerschuld auf den Leistungsempfänger</em></p>
+<p>Außerdem muss auf der Rechnung die <strong>UID</strong> Nummer des Empfängers stehen und du musst zwar keine Umsatzsteuer auf deine Erträge zahlen, aber seit 1.1.2020 musst du deine Erträge aus innergemeinschaftlichen Lieferungen in einer <strong>Zusammenfassenden Meldung</strong> in FinanzOnline angeben. Wie genau diese Meldung auszusehen hat schauen wir uns ein bisschen später an.</p>
+<h3 id="wie-funktioniert-das-mit-den-sozialversicherungsbeiträgen">Wie funktioniert das mit den Sozialversicherungsbeiträgen?</h3>
+<p>Grundsätzlich gilt, wenn jemand von dir Geld will meldet er sich meistens rechtzeitig. Das gleiche gilt für die Sozialversicherungsbeiträge - die SVS wird dir rechtzeitig am Anfang vom Jahr eine Rechnung schicken mit deinen Beiträgen welche du 1x pro Quartal überweist. Wenn du bereits beim einreichen der SVS Anmeldung höhere Einnahmen angegeben hast sollte dieser Beitrag auch passend zu deinem erwartetem Umsatz sein. Wenn der Beitrag besonders niedrig oder hoch ist kannst du deine erwartete Beitragsgrundlage auf der <a href="https://www.svs.at">Homepage der SVS</a> anpassen. Dort kannst du auch deine fällige Zahlungen sehen und dich informieren zum Selbstständig Gesund Programm, womit du deinen Selbstbehalt senken kannst.</p>
+<h5 id="betriebliche-vorsorgekassen">Betriebliche Vorsorgekassen</h5>
+<p>Spätestens 6 Monate nach der Anmeldung bei der Sozialversicherung muss man sich für eine Betriebliche Vorsorgekasse entscheiden, ansonsten wird man automatisch einer zugeteilt. Die Vorsorgekassen investieren einen kleinen Teil deiner Sozialversicherungsbeiträge welche du dir auszahlen lassen kannst, entweder sobald du in Pension gehst oder deine Tätigkeit als Selbstständiger nieder legst. Die Mitgliedschaft ist übrigens für die meisten Freelancer verpflichtend.</p>
+<p>Eine Liste der betrieblichen Vorsorgekassen findest du <a href="https://www.wko.at/site/betrieblichevorsorgekassen/liste-betriebliche-vorsorgekassen.html">hier</a> und <a href="https://www.wko.at/site/betrieblichevorsorgekassen/allgemeine-informationen.html">hier</a> kannst du mehr über das Vorsorgekassensystem erfahren</p>
+<h3 id="die-steuern">Die Steuern</h3>
+<p>Nichts im Leben ist sicher, nur der Tod und die Steuern - so lautet ein altbewährtes Sprichwort und wenn man eines wissen sollte als Selbstständiger dann folgendes: es gibt 2 Organisationen welchen du nie zu spät Geld zahlen solltest und das sind die Sozialversicherungen und das Finanzamt.</p>
+<h4 id="wann-ist-meine-steuer-fällig">Wann ist meine Steuer fällig?</h4>
+<p>Man sollte meinen die Antwort auf diese Frage ist leicht und einheitlich - doch das ist sie natürlich nicht, deswegen fangen wir mit der leichtesten und logischsten Steuer an - der <strong>Einkommenssteuer</strong>.</p>
+<h5 id="einkommenssteuer">Einkommenssteuer</h5>
+<p>Basierend auf deinem Steuerausgleich letztes Jahr bzw dem <em>geschätzten Umsatz</em> bei deiner Finanzamt Meldung erhaltest du einen Vorauszahlungsbescheid vom Finanzamt. Jeweils ein viertel der Vorauszahlung ist fällig am 15. Februar, 15. Mai, 15. August und 15. November. Seit neuestem kannst du die Einkommenssteuer über ein SEPA - Lastschriftmandat automatisch abbuchen lassen  - wenn du das nicht willst kannst du den Betrag auch per Hand überweisen (oder über die Finanzamt Integration von deinem Online Banking - falls deine Bank dies kann). Wie du manuell eine SEPA Überweisung an das Finanzamt tätigst erkläre ich gleich.</p>
+<h5 id="umsatzsteuer">Umsatzsteuer</h5>
+<p>Kommen wir nun zum großen Punkt - der <strong>Umsatzsteuer</strong>. Grundsätzlich fällt diese Steuer auf im Unternehmen entstanden <strong>Umsatz</strong> bzw <strong>Mehrwert</strong> an - daher auch der Name. Wenn ein Kunde also ein Produkt kauft und für dieses Produkt 20% Mehrwertsteuer zahlt wird diese Steuer teilweise von jedem Unternehmen in der Produktionskette an das Finanzamt abgeliefert. Dies ist auch der Grund warum Unternehmen die Umsatzsteuer ihrer eingekauften Leistungen mit denen ihrer Verkäufe gegenrechnen können - die Differenz ist der <strong>generierte Mehrwert</strong>.</p>
+<p>Soweit so gut - doch wann ist die Umsatzsteuer nun fällig? Nun, das hängt von deinen Umsätzen als Selbstständiger ab. Wenn du weniger als 100.000€ Umsätze im Jahr machst ist die Umsatzsteuer <strong>vierteljährlich</strong> zu melden, solltest du mehr als 1000.000€ Umsätze im Jahr haben ist die Umsatzsteuer <strong>monatlich</strong> zu melden. Soviel zur Meldung der Umsatzsteuer - doch bis wann muss man sie spätestens bezahlen?</p>
+<p><em>Die Umsatzsteuer muss spätestens am 15. des auf den Voranmeldungszeitraum zweit folgenden Kalendermonats beim Finanzamt einreichen.</em> Dies klingt mal wieder unnötig kompliziert, was es allerdings bedeutet ist - du musst die Umsatzsteuer spätestens bis zum 15. des übernächsten Monats nach der Meldung überweist haben - wichtig hierbei, das Geld muss am 15. bereits angekommen sein beim Finanzamt.</p>
+<p>Des Weiteren ist es auch wichtig zu wissen welche Beträge für welchen Zeitraum anfallen. Hierfür gibt es 2 wichtige Begriffe die <strong>IST-Versteuerung</strong> und die <strong>SOLL-Versteuerung</strong>. Soll Besteuerung bedeutet die Steuer fällt an in dem Monat in dem die Rechnung gestellt wurde, IST Besteuerung hingegen bedeutet die Steuer fällt an sobald du das Entgelt für die Rechnung erhalten hast - sprich sobald die Rechnung bezahlt wurde.</p>
+<p>Mit hoher Wahrscheinlichkeit fällst du als Freelancer unter die IST - Versteuerung, es sei denn du bist Buchführungspflichtig (Doppelte Buchführung) - dafür benötigst du als Einzelunternehmen jedoch einen Umsatz über 700.000€ Euro im Jahr.</p>
+<hr>
+<p>Hierzu nun ein kleines Beispiel:</p>
+<blockquote>
+<p>Dieter ist ein Webdesigner, sein Jahresumsatz beträgt 150.000€ und im Jänner 2020 hat er 20.000€ in Rechnungen gestellt und 15.000€ in Rechnungen bezahlt bekommen. Im Februar erhält er die 20.000€ vom Jänner.</p>
+<p>Da er mehr als 100.000€ im Jahr an Umsätzen hat, muss er monatlich eine <strong>Umsatzsteuervoranmeldung</strong> in FinanzOnline abgeben. Für den Monat 01 - 2020 hat er 15.000€ anzugeben und bis spätestens 15.3 zu überweisen an das Finanzamt. Für den Monat 02 - 2020 hat er 20.000€ anzugeben und bis spätestens 15.4 zu überweisen an das Finanzamt.</p>
+</blockquote>
+<h6 id="vorsteuer-eingekaufter-waren-abziehen--vorsteuer-pauschalieren">Vorsteuer eingekaufter Waren abziehen &amp; Vorsteuer pauschalieren</h6>
+<p>Als Unternehmer darfst du die Mehrwehrsteuer eingekaufter Waren abziehen von der Mehrwertsteuer deiner gestellter Rechnungen. Die meisten Freelancer, mich inkludiert, kaufen allerdings nicht regelmäßig Waren ein, daher gibt es für uns die Möglichkeit der Vorsteuerpauschalierung. Diese besagt, wenn dein Vorjahresumsatz unter 220.000 € beträgt, darfst du dir 1.8% deines Nettoumsatzes (maximal 3.960 €) von der Umsatzsteuer als Ausgaben abziehen. Ob sich das für dich rechnet musst du entscheiden, allerdings kenne ich viele Freelancer und für die meisten rechnet es sich nicht jede Rechnung einzeln abzuziehen.</p>
+<hr>
+<p>Um das ganze verständlicher zu machen, nochmal ein kleines Beispiel:</p>
+<blockquote>
+<p>Maria hat im Jänner Rechnungen bezahlt bekommen in Höhe von 12.000 € (inkl. 20% Umsatzsteuer). Eigentlich müsste sie 2.000 € an Umsatzsteuer an das Finanzamt zahlen, allerdings darf sie 1.8% von ihrem Nettoumsatz als Ausgaben abziehen. 1.8% von 10.000 € sind 180 €, sprich sie schuldet dem Finanzamt nur 1.820 € Umsatzsteuer und darf sich die 180 € behalten.</p>
+</blockquote>
+<h5 id="zusammenfassende-meldung">Zusammenfassende Meldung</h5>
+<p>Die <strong>Zusammenfassende Meldung</strong> ist keine Steuer per-se aber genauso in FinanzOnline einzugeben und hängt zusammen mit der Umsatzsteuer. Alle Einnahmen aus innergemeinschaftlichen Lieferungen (= Lieferungen an Unternehmen im <strong>EU Ausland</strong>) müssen seit 1.1.2020 in der Zusammenfassenden Meldung ausgewiesen werden, damit die Rechnungen offiziell Steuerfrei sind - solltest du diese Meldung nicht abgeben, hast du Umsatzsteuer auf den in Rechnung gestellten Betrag zu zahlen.</p>
+<p>Die Fristen für die Meldung sind die gleichen wie bei der Umsatzsteuer - sprich, wenn du unter 100.000€ im Jahr an Umsätzen hast <strong>vierteljährlich</strong>, über 100.000€ <strong>monatlich</strong>. Der große Unterschied zwischen den beiden Meldungen ist jedoch, dass es für die zusammenfassende Meldung <strong>keine</strong> SOLL und IST Besteuerung gibt, es gilt immer das Rechnungsdatum. Des weiteren hast du die Meldung bis zum Ende des nächsten Monats abzugeben.</p>
+<hr>
+<p>Hierzu wieder ein Beispiel:</p>
+<blockquote>
+<p>Jörg ist Unternehmensberater und hat einen Umsatz von 110.000€ im Jahr. Im Jänner 2020 hat er eine Rechnung an seinen Kunden in Deutschland gestellt in Höhe von 15.000€ und im Februar eine Rechnung an seinen Kunden in der Slowakei in Höhe von 10.000€. Beide Rechnungen wurden im Februar bezahlt. Jörg muss monatlich eine zusammenfassende Meldung abgeben, da er über 100.000€ Umsatz im Jahr hat. Die Meldung für den Monat 01 - 2020 in Höhe von 15.000€ hat er bis spätestens 29.2 (2020 war ein Schaltjahr) abzugeben und die Meldung für den Monat 02 - 2020 in Höhe von 10.000€ hat er bis spätestens 31.3 einzureichen.</p>
+</blockquote>
+<h4 id="wie-melde-ich-meine-steuern-in-finanzonline-an">Wie melde ich meine Steuern in FinanzOnline an?</h4>
+<p>FinanzOnline ist ein mächtiges Tool - jedoch nicht gerade intuitiv entwickelt. Daher zeige ich dir nun wie du die Umsatzsteuervoranmeldung und die Zusammenfassende Meldung in FinanzOnline einreichen kannst.</p>
+<h5 id="umsatzsteuervoranmeldung">Umsatzsteuervoranmeldung</h5>
+<p>Um die Umsatzsteuervoranmeldung in FinanzOnline durchzuführen musst du zuerst auf der Startseite unter <em>Eingaben</em> im Drop-Down Menü <em>Erklärungen</em> auswählen.</p>
+<p><img src="/images/freelancer/umsatzsteuer_01.png" alt=""></p>
+<p>Auf der nächsten Seite wählst du nun als Art der Erklärung <em>Umsatzsteuervoranmeldung (inkl. Berichtigung)</em> aus und am Ende der Seite unter Gültigkeit der Erklärung gibs du das Jahr und den Monat bzw Quartal ein für das du eine Meldung abgeben willst, danach drückst du auf <em>weiter</em>.</p>
+<p><img src="/images/freelancer/umsatzsteuer_02.png" alt=""></p>
+<p><img src="/images/freelancer/umsatzsteuer_03.png" alt=""></p>
+<p>Unter dem Punk Lieferungen, sonstige Leistungen und Eigenverbrauch gibst du nun deine zu versteuernden Umsätze an (Keine Umsätze aus Innergemeinschaftlichem Erwerb!).</p>
+<p><img src="/images/freelancer/umsatzsteuer_04.png" alt=""></p>
+<p>Bei Punkt <em>000</em> gibst du deine gesamten zu versteuernden Umsatz für den Zeitraum ein und bei <em>Steuersätzen</em> gibst du die Bemessungsgrundlage für die einzelnen Steuersätze an. Nehmen wir also an, ich habe 10.000€ netto zu versteuern und meine gesamten Einnahmen fallen unter den 20% Normalsteuersatz, dann hat meine Erklärung so auszusehen:</p>
+<p><img src="/images/freelancer/umsatzsteuer_05.png" alt=""></p>
+<p><img src="/images/freelancer/umsatzsteuer_06.png" alt=""></p>
+<p>Sobald du damit fertig bist, drückst du auf <em>weiter</em> und wählt als nächstes den Punkt <em>Vorsteuer aus</em></p>
+<p><img src="/images/freelancer/umsatzsteuer_07.png" alt=""></p>
+<p>Unter diesem Punkt kannst du die Vorsteuer deiner eingekauften Waren abziehen. Solltest du (so wie ich) die Vorsteuer pauschalieren gibst du unter <em>060</em> die 1.8% deines Nettoumsatzes an, z.B.: 180€ (für meine 10.000€). Danach drückst du auf <em>weiter</em> und kannst dir die zu zahlende Umsatzsteuer ausrechnen lassen unter <em>Vorberechnung</em>.</p>
+<p><img src="/images/freelancer/umsatzsteuer_08.png" alt=""></p>
+<p>Nachdem ich auf Vorberechnen geklickt habe, sehe ich, dass ich 1.820€ an Umsatzsteuer zu bezahlen habe.</p>
+<p><img src="/images/freelancer/umsatzsteuer_09.png" alt=""></p>
+<p>Wenn du dir sicher bist das alles richtig ist, kannst du den Antrag einreichen.</p>
+<h5 id="zusammenfassende-meldung-1">Zusammenfassende Meldung</h5>
+<p>Um die Zusammenfassende Meldung in FinanzOnline durchzuführen musst du zuerst auf der Startseite unter <em>Eingaben</em> im Drop-Down Menü <em>Erklärungen</em> auswählen.</p>
+<p><img src="/images/freelancer/umsatzsteuer_01.png" alt=""></p>
+<p>Nun wählst du Zusammenfassende Meldung aus und gibst wieder unter Gültigkeit der Erklärung das Jahr und den Monat bzw Quartal an.</p>
+<p><img src="/images/freelancer/ZM_01.png" alt=""></p>
+<p><img src="/images/freelancer/umsatzsteuer_03.png" alt=""></p>
+<p>Für die Zusammenfassende Meldung musst du nur einen Punkt ausfüllen, und zwar <em>Innergemeinschaftliche Warenlieferungen, Sonstige Leistungen und Beförderung oder Versendung in das Konsignationslager</em></p>
+<p><img src="/images/freelancer/ZM_02.png" alt=""></p>
+<p>In diesem Formular musst du nun die <strong>Umsatzsteuer-Identifikationsnummer</strong> deiner Kunden angeben und die <strong>Summe der Bemessungsgrundlagen</strong>. Wichtig hierbei, die Summe deiner Verkäufe muss in ganzen Euro angegeben werden, Cent Beträge werden auf- oder abgerundet. Da ich Dienstleistungen an ein Unternehmen erbrachte habe fällt es unter <strong>sonstige Leistungen</strong></p>
+<p><img src="/images/freelancer/ZM_03.png" alt=""></p>
+<p>Sobald ihr alles fertig eingetippt habt könnt ihr auf <em>weiter</em> klicken und die Meldung einreichen.</p>
+<h4 id="steuern-manuell-überweisen">Steuern manuell überweisen</h4>
+<p>Du kannst deine Steuer auf mehrere Wege bezahlen, entweder deine Bank hat den <em>Finanzamtszahlung</em> Service integriert, oder über <em>eps-Überweisung</em> - Dies funktioniert aber nur mit österreichischen Banken, auch wenn z.B.: N26 und Holvi EPS Integration besitzen, erlaubt dies FinanzOnline nicht. Was einem aber nirgendwo gesagt wird, du kannst auch deine Steuern per Hand an das Finanzamt überweisen, und so funktioniert das ganze:</p>
+<p>Suche dir zuerst die Bankverbindung für dein zuständiges Finanzamt <a href="https://service.bmf.gv.at/service/anwend/behoerden/">hier</a> heraus, danach brauchst du nur noch deine Steuernummer und den Betrag welchen du bezahlen willst. Nehmen wir also an, ich will meine vorhin eingereichte Steuerschuld vom März 2020 in Höhe von 1.820 € beim Finanzamt des 1. und 23. Wiener Bezirkes begleichen.  Die Buchung würde wie folgt aussehen:</p>
+<p><img src="/images/freelancer/transaction_01.png" alt=""></p>
+<p>Bei Buchungsnachricht muss deine Steuernummer stehen und wofür diese Überweisung ist - in meinem Fall also <em>Umsatzsteuer März 2020</em>.</p>
+<p><strong>Wichtig:</strong> Manuell eingereichte Steuern können ein bisschen dauern bis sie deinem Steuerkonto zugewiesen werden, deswegen würde ich sie sicherheitshalber immer ein bisschen früher überweisen - nur um auf Nummer sicher zu gehen.</p>
+<h3 id="abschließende-worte">Abschließende Worte</h3>
+<p>In diesem Artikel haben wir einiges besprochen - Wie man eine Rechnung stellt, wie man eine Rechnung ins EU - Ausland stellt, wir haben SOLL und IST Besteuerung kennen gelernt und eine Vorsteueranmeldung sowie Zusammenfassende Meldung in Finanz Online eingetippt.</p>
+<p>Wichtig ist als Freelancer die Fristen nicht zu versäumen - unter Links &amp; Ressourcen findest du ein Excel Dokument welches ich selbst verwende um keine Frist für die Umsatzsteuervoranmeldung zu versäumen, falls es dir hilft bist du herzlichst eingeladen es zu verwenden.</p>
+<h3 id="links--ressourcen">Links &amp; Ressourcen</h3>
+<ul>
+<li><a href="https://www.wko.at/service/steuern/Innergemeinschaftliche-Lieferungen.html">WKO Innergemeinschaftliche Lieferung</a></li>
+<li><a href="https://www.wko.at/service/steuern/Erfordernisse-einer-Rechnung.html">WKO Erfordernisse einer Rechnung</a></li>
+<li><a href="https://www.wko.at/service/steuern/Die_Basispauschalierung.html">WKO Basispauschalierung</a></li>
+<li><a href="https://www.usp.gv.at/Portal.Node/usp/public/content/steuern_und_finanzen/umsatzsteuer/umsaetze_innerhalb_eu/zusammenfassende_meldung/40956.html">USP - Zusammenfassende Meldung</a></li>
+<li><a href="https://finanzonline.bmf.gv.at/">FinanzOnline</a></li>
+<li><a href="/files/freelancer/Umsatzsteuer.xlsx">Umsatzsteuer Excel File</a></li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/categories/freelancer/">Freelancer</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/freelancer/">Freelancer</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/selbstst%C3%A4ndig/">Selbstständig</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Freelancer werden in Österreich</title>
+                <link>http://professor-explains.world/posts/freelancer/01-arbeiten-als-freelancer/</link>
+                <guid isPermaLink="true">http://professor-explains.world/posts/freelancer/01-arbeiten-als-freelancer/</guid>
+                <pubDate>Tue, 07 Apr 2020 15:27:38 +0200</pubDate>
+                
+                    <author>professor-explains@protonmail.com (The Professor)</author>
+                
+                
+                
+                    <description><![CDATA[<p>Viele Menschen in Österreich träumen von der Selbstständigkeit - sein eigener Boss zu sein, selbst zu entscheiden wann man arbeitet und woran. Doch gleichzeitig haben auch viele Angst davor, was passiert wenn ich einen Unfall habe? Wie schaut das mit Urlaub aus und wie bezahle ich meine Steuern?</p>
+<p>In dieser Serie versuche ich die wichtigsten Themen die einen Freelancer betreffen möglichst einfach zu erklären und worauf man achten muss. Ich werde versuchen die Information so allgemein wie möglich zu halten, doch da ich selbst in der IT arbeite als selbstständiger werde ich oft auch Themen von meiner Perspektive erklären.</p>
+<p>Dieser Artikel richtet sich vor allem an Freelancer im Dienstleistungsgewerbe wie Software Consultants, Grafik Designer oder Werbetexter, einfach gesagt an Branchen mit geringen Investitionskosten im Vergleich zum Gewinn - sowie an Unternehmer ohne Angestellte. Solltest du nicht in diese Kategorie fallen empfehle ich dir ein Beratungsgespräch mit einem Steuerberater und Unternehmensberater!</p>
+<h3 id="rechnet-sich-die-selbstständigkeit-für-mich">Rechnet sich die Selbstständigkeit für mich?</h3>
+<p>Die erste Frage dich man sich stellen muss bevor man seinen Job kündigt und als Selbstständiger arbeiten will ist, ob es sich überhaupt Rechnet! Die Beträge mit denen Selbstständige arbeiten sehen oft gigantisch aus für Angestellte, allerdings vergleicht man hier Äpfel mit Birnen - deswegen will ich hier ein kleines Rechenbeispiel präsentieren um zu verdeutlichen wie das mit dem <em>Gehalt</em> als Freelancer funktioniert.</p>
+<p>Unser Beispiel schaut wie folgt aus:</p>
+<p>Karl will sich als Software Entwickler Selbstständig machen, derzeit arbeitet er Vollzeit in einem großen Unternehmen und verdient 4.000€ Brutto, er hat keine Kinder und bezieht keine Pendlerpauschale (um die Rechnung einfacher zu gestalten). Monatlich bleiben Karl ca 2.500€ netto übrig, allerdings gibt es ja auch noch das 13 + 14 Gehalt. Wenn wir alle 14 netto Gehälter addieren und durch 12 dividieren bleibt uns ein monatliches Netto Gehalt von ca 3.000€. Damit sich für Ihn die Selbstständigkeit auszahlt müssen ihm also mindestens 3.000€ auch als Freelancer übrig bleiben.</p>
+<p>Er hat bereits ein Angebot erhalten für ein IT Projekt als Freelancer und würde 50€/Stunde erhalten. Wenn wir davon ausgehen, dass er als Freelancer genauso viel arbeitet wie als Angestellter - 5 Wochen Urlaub, ein paar Krankentage und er arbeitet nicht an Feiertagen und Wochenenden - würde er ca. <strong>1600 Stunden</strong> im Jahr arbeiten. Die Mathematiker unter wissen 50€ pro Stunde mal 1600 Stunden ergeben 80.000€</p>
+<p>Er würde also im Jahr 80.000€ an Umsatz machen, dies ist natürlich wesentlich mehr als er davor verdient hat, selbst Brutto hat er nur 56.000€ im Jahr verdient. Doch der Schein trügt! Wenn wir diese Zahl nun in den <a href="https://svrechner.wko.at/">SVRechner der WKO</a> eintippen sehen wir folgende Zusätzliche Kosten:</p>
+<p>Sozialversicherungsabgaben: 20.300€</p>
+<p>Einkommenssteuer: 16.700€</p>
+<p>Karl bleiben also rund 43.000€ übrig am Ende vom Jahr und wenn man diese Zahl nun durch 12 dividiert um ein <em>Gehalt</em> zu simulieren sehen wir, dass er netto monatlich <em>nur</em> 500€ mehr verdient als davor, obwohl er brutto 24.000€ mehr <em>verdient</em> hat. Jetzt könnte man natürlich sagen, ok - 500€ monatlich mehr sind immer noch 6.000€ im Jahr - es zahlt sich also auf jeden Fall aus, doch der Schein trügt mal wieder.</p>
+<p>Mir ist natürlich bewusst, dass dies keine exakte Rechnung ist - aber es hilft um zu verdeutlichen wie viel dir von deinem Umsatz übrig bleibt.</p>
+<h4 id="risiken-als-freelancer">Risiken als Freelancer</h4>
+<p>Als Angestellter hat Karl derzeit einige Sicherheiten. Sollte er einen schweren Unfall haben und für einige Wochen oder Monate nicht arbeiten können darf ihn sein Arbeitgeber nicht einfach kündigen, er hat Anspruch auf Urlaub und vielleicht sogar Aufstiegschancen in seinem Betrieb. All das fällt weg als Freelancer, und das muss einem auch bewusst sein. Diese 6.000€ mehr im Jahr müssen Karl erhalten können sollte das Projekt plötzlich vorbei sein, des Weiteren hat er als Selbstständiger wahrscheinlich höhere Kosten, durch den Steuerberater, eine Haftpflicht Versicherung und vielleicht auch eine Rechtsschutzversicherung - außerdem darf man ebenfalls nicht vergessen, dass man als Selbstständiger bei der SVS 20% Selbsthalt zu zahlen hat bei allen Arztbesuchen. All diese Faktoren müssen berücksichtigt werden und danach muss man sich nochmal die Frage stellen, <em>Rechnet es sich für mich als Selbstständiger zu arbeiten?</em> Diese Frage kannst du dir natürlich nur selbst beantworten. Allerdings gibt es als Selbstständiger welcher ein Stundenbasiertes Projekt hat eine mächtige Waffe - das Stichwort lautet hier <strong>Stundenbasiert</strong>. Was ist, wenn du statt 5 Wochen Urlaub nur 3 Wochen Urlaub machst, und täglich nicht 8, sondern 9 Stunden arbeitest? Dann sind wir plötzlich näher bei 90.000€ - 100.000€ im Jahr und der Unterschied wird größer und größer. Die Verlockung mehr zu arbeiten wird immer größer wenn man ein eindeutiges Resultat seiner Arbeit mit jeder Rechnung sieht, allerdings darfst du hierbei nicht auf deine Gesundheit vergessen, denn als Selbstständiger musst du auf dich selbst schauen!</p>
+<h3 id="gewerbe-anmelden">Gewerbe anmelden</h3>
+<p>Du hast dich also Entschieden als Freelancer zu Arbeiten trotz der Risiken, weißt aber nicht wie du ein Einzelunternehmen gründest?</p>
+<p>Ein neues Gewerbe in Österreich anzumelden ist mittlerweile überraschend einfach und unbürokratisch - vorausgesetzt es handelt sich um ein <strong>Freies Gewerbe</strong> und du besitzt eine <strong>Handysignatur</strong>. Solltest du noch keine Handysignatur besitzen, empfehle ich dir diese vorher über FinanzOnline anzufordern, da es den gesamten Prozess extrem erleichtert.</p>
+<p>Mit der Handysignatur kann man sich ganz einfach auf der Website des <a href="https://www.usp.gv.at">Unternehmensservice Portals</a> registrieren - sobald man registriert ist kann man über das Unternehmerportal eine Meldung einbringen. Zur Gründung eines Unternehmens muss man folgende Meldungen einbringen:</p>
+<ul>
+<li>Erklärung gemäß Neugründungs-Förderungsgesetz (NeuFöG)</li>
+<li>Gewerbeanmeldung</li>
+<li>Finanzamtsmeldung (Verf24), Fragebogen für natürliche Personen</li>
+<li>Sozialversicherungsmeldung (SVA)</li>
+<li><em>Optional</em> -  Antrag auf Eintragung in das Firmenbuch</li>
+</ul>
+<p>Mit Ausnahme der Finanzamtsmeldung sind all diese Formulare sind ziemlich selbsterklärend, deswegen werde ich in diesem Artikel nicht weiter auf sie eingehen. Einzelunternehmer sind nicht verpflichtet sich im Firmenbuch einzutragen solange sie einen Umsatz unter 1.000.000€ in einem Jahr oder 700.000€ in zwei aufeinanderfolgende Jahre haben, allerdings ist das Eintragen im Firmenbuch durch die Neugründerförderung gratis, falls man den Wunsch hat sich eintragen zu lassen.</p>
+<h5 id="finanzamtsmeldung">Finanzamtsmeldung</h5>
+<p>Der wichtigste Punkt bei der Finanzamtsmeldung ist die <strong>Regelbesteuerung</strong> bzw der <strong>UID - Antrag</strong>. Hierbei gilt folgendes, sollte man einen Umsatz (aus selbstständiger Tätigkeit) von <strong>unter</strong> <em>30.000 EUR</em> in einem Jahr haben hat man ein Anrecht darauf sich von der Umsatzsteuerpflicht befreien zu lassen. Dies ist von Vorteil wenn man mit Endkunden arbeitet, da man dadurch seine Produkte billiger verkaufen kann - allerdings darf man natürlich auch keinen Vorsteuerabzug durchführen. Solltest du nur mit Unternehmen handeln empfehle ich der Einfachheit halber trotzdem eine UID anzufordern.</p>
+<h5 id="sozialversicherungsmeldung">Sozialversicherungsmeldung</h5>
+<p>Die Sozialversicherungsanmeldung bei der SVS ist prinzipiell sehr einfach und logisch, allerdings gibt es einen Punkt auf den man achten sollte: <strong>Anpassung der vorläufigen Beitragsgrundlage</strong>.</p>
+<p>Die SVS verlangt von jedem neuen Anwerber standardmäßig nur die Mindestbeiträge für die ersten 3 Jahre und danach evaluieren sie deine echten Beiträge. Dies bedeutet allerdings auch, dass du die nicht gezahlten Beiträge der letzten 3 Jahre natürlich zurück zahlen musst. Die SVS tut dies, da Unternehmen am Anfang meist sehr hohe Investitionskosten haben und ihnen damit das Leben erleichtert wird. Freelancer hingegen, welche kaum bis gar keine Investitionskosten haben profitieren hiervon nicht, im Gegenteil es kann Ihnen sogar schaden. Viele Freelancer vergessen auf die Änderung der Beiträge nach 3 Jahren und erhalten plötzlich eine Rechnung von der SVS in Höhe von 60.000€. Wenn du dieses Geld nicht auf der Seite liegen hast, kann dies Existenzbedrohend für dich sein.</p>
+<p>Die <strong>Anpassung der vorläufigen Beitragsgrundlage</strong> hilft dir hierbei jedoch. Du kannst deine geschätzten Einkünfte hier eintragen und dein Beitrag wird automatisch angepasst. Natürlich zahlst du dadurch mehr SVS Beiträge in den ersten 3 Jahren, allerdings wird die Nachzahlung im 3. Jahre bei weitem nicht so dramatisch sein, weil du wahrscheinlich mit deiner Beitragsgrundlage sehr nahe am echten Wert warst.</p>
+<hr>
+<p>Sobald diese Einträge eingereicht wurden kann man als Selbstständiger tätig werden, du musst nicht mehr auf eine Bestätigung der Behörden warten - diese kommt meistens nach 2-3 Wochen.</p>
+<h3 id="ein-bankkonto-für-selbstständige">Ein Bankkonto für Selbstständige</h3>
+<p>Ein getrenntes Bankkonto für deine Einkünfte aus selbstständiger Tätigkeit zu haben ist essentiell. Nicht nur hilft es dir bei der Steuererklärung, es ist auch vernünftig deine privaten Ausgaben von den <em>Firmen</em> Ausgaben zu trennen. Meine Empfehlung ist, alle Kunden überweisen ihre Beträge auf dieses Konto - und du überweist dir monatlich nicht mehr als <strong>50%</strong> deiner Netto Einkünfte (Ohne Mehrwertsteuer) - bzw 40% der Brutto Einkünfte auf dein privates Bankkonto. Dadurch stellst du sicher, dass du immer genug Geld auf diesem Konto hast für die Einkommenssteuer, SVS Beiträge, Versicherungen&hellip;etc.</p>
+<p>Du solltest mental mit dem Geld auf diesem Konto abschließen, stelle es dir einfach vor wie das Konto von deinem Arbeitgeber - und dein Gehalt erhälts du auf dein privates Konto. Das Geld auf dem Firmenkonto ist nur für das Finanzamt und die Sozialversicherungen.</p>
+<h4 id="wo-soll-ich-mein-freelancer-konto-eröffnen">Wo soll ich mein Freelancer Konto eröffnen?</h4>
+<p>Es gibt spezielle Bankkonten für Einzelunternehmer bei allen großen Österreichischen Banken - allerdings kosten diese oftmals etwas und solange du einfach nur Honorarnoten stellst, gezahlt bekommst und dir auf dein Privates Konto überweist tut es auch eine gratis Online Bank.</p>
+<p>Ich persönlich verwende <a href="https://www.holvi.com/"><strong>Holvi</strong></a>. Holvi ist eine Online Bank welche sich speziell auf Freelancer und Selbstständige spezialisiert hat und bereits einige Funktionen, wie ein Rechnungsprogramm oder einen Online Shop inkludieren.  Allerdings tut es genauso die Business Variante von <a href="https://n26.com">N26</a>, zum Beispiel.</p>
+<p>Den einzigen Nachteil den Ihr bei diesen Online Banken habt ist die fehlende Integration von <strong>Finanzamtszahlungen</strong> im Online Banking System. Banken wie die Erste Bank ermöglichen es dir direkt deine Steuerschuld ans Finanzamt zu überweisen - allerdings kannst du dies auch genauso gut durch eine <strong>SEPA Überweisung</strong> tun - wie genau das funktioniert zeige ich dir später.</p>
+<h3 id="abschließende-worte">Abschließende Worte</h3>
+<p>In diesem Artikel haben wir also gelernt wie man sein Unternehmen beim Unternehmensserviceportal anmeldet, wie man sich ausrechnen kann ob es sich lohnt und worauf man achten muss beim anmelden seines Unternehmens.</p>
+<p>In dem nächsten Artikel werden wir uns das Day-To-Day Business anschauen als Freelancer - Wie stelle ich eine Rechnung aus und wie hat diese überhaupt auszusehen? Wie erledige ich meine Umsatzsteuervoranmeldung in FinanzOnline? Wie bezahle ich meine Steuern?</p>
+<h3 id="wichtige-links--ressourcen">Wichtige Links &amp; Ressourcen</h3>
+<ul>
+<li><a href="https://www.wko.at/">WKO</a></li>
+<li><a href="https://www.usp.gv.at">Unternehmensserviceportal</a></li>
+<li><a href="https://www.svs.at">Website der SVS</a></li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/categories/freelancer/">Freelancer</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/freelancer/">Freelancer</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/selbstst%C3%A4ndig/">Selbstständig</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Alles was du für die Cloud Practitioner Zertifizierung wissen musst</title>
+                <link>http://professor-explains.world/posts/aws/01-cloud-practitioner/</link>
+                <guid isPermaLink="true">http://professor-explains.world/posts/aws/01-cloud-practitioner/</guid>
+                <pubDate>Tue, 07 Apr 2020 11:26:29 +0200</pubDate>
+                
+                    <author>professor-explains@protonmail.com (The Professor)</author>
+                
+                
+                
+                    <description><![CDATA[<p><img src="\images\aws\AWS_Certification_overview.png" />
+<em>AWS Überblick der Zertifikate (Quelle: <a href="https://aws.amazon.com/certification/?nc2=sb_ce_co">AWS Homepage</a>)</em></p>
+<p>Die AWS Cloud Practitioner Zertifizierung ist perfekt für Leute welche über die Grundlagen von AWS lernen möchten ohne einen spezifischen Hintergrund (Entwickler, SysAdmin ..etc). In diesem Artikel präsentiere ich alle wichtigen AWS Services welche man für die AWS Cloud Practitioner Zertifizierung benötigt und erkläre euch ein bisschen etwas darüber was AWS und Cloud Computing eigentlich ist.</p>
+<h3 id="cloud-computing">Cloud Computing</h3>
+<p>Bevor wir uns mit den spezifischen AWS Services beschäftigen müssen wir ein paar Vokabeln lernen und erklären. Der erste Grundlegende Begriff den wir kennen lernen ist <strong>Cloud Computing</strong> - Cloud Computing ist on-demand Speicher, Prozessorleistung und mehr via einer Internet Plattform - die kosten sind hierbei meist <strong>pay-as-you-go</strong>, dies bedeutet, man bezahlt nur Ressourcen welche man auch wirklich verwendet.</p>
+<h4 id="6-vorteile-von-cloud-compouting">6 Vorteile von Cloud Compouting</h4>
+<p>Cloud Computing bietet 6 große Vorteile gegenüber dem altem Standard von On-Premise Hosting (In deinem eigenen Datacenter).</p>
+<h5 id="ersetze-fixkosten-durch-variable-kosten">Ersetze Fixkosten durch Variable Kosten</h5>
+<p>Wenn ich ein eigenes Datacenter betreibe habe ich gigantische Investitionskosten und auch laufende Kosten für Ressourcen welche ich vielleicht (noch) nicht benötige. In Cloud Computing zahle ich nur für Ressourcen welche ich auch wirklich benötige.</p>
+<h5 id="economies-of-scale">Economies of Scale</h5>
+<p>Amazon besitzt hundert tausende Kunden auf der gesamten Welt - dadurch können sie die Preise für den einzelnen Kunden geringer halten.</p>
+<h5 id="nie-wieder-kapazitäten-schätzen">Nie wieder Kapazitäten schätzen</h5>
+<p>In einem klassischen Datenzentrum muss man immer mehr Ressourcen haben als man benötigt, denn sollte es einen plötzlich Anstieg in Benutzern geben muss man diesen Anstieg abfangen können ohne Downtime zu haben. AWS löst dieses Problem durch <strong>Cloud Scaling</strong>. Die Cloud skaliert automatisch mit deinem Business Model und du zahlst trotzdem nur für die Ressourcen die du benötigst.</p>
+<h5 id="sei-schnell-und-agil">Sei schnell und Agil</h5>
+<p>Einen neuen Server zu deployen dauert Cloud Computing nur wenige Minuten - dies bedeutet, dass die IT Abteilung schneller entwickeln, deployen und testen kann wodurch deine Organisation schneller und agiler wird.</p>
+<h5 id="kümmere-dich-nicht-mehr-um-das-datacenter">Kümmere dich nicht mehr um das Datacenter</h5>
+<p>Deine Firma kann sich auf die Entwicklung konzentrieren, Amazon kümmert sich um den Erhalt vom Datacenter.</p>
+<h5 id="weltweit-erreichbar-in-minuten">Weltweit erreichbar in Minuten</h5>
+<p>Dank Amazon kannst du deine Applikation weltweit deployen innerhalb von Minuten. Dank AWS Regions brauchst du keine Datacenter auf anderen Kontinenten oder Verträge mit unterschiedlichen Anbietern.</p>
+<h4 id="arten-von-cloud-computing">Arten von Cloud Computing</h4>
+<p>Cloud Computing ist nicht gleich Cloud Computing - es gibt unterschiedliche Arten und jede hat seine eigenen Vor- und Nachteile.</p>
+<h5 id="infrastructure-as-a-service-iaas">Infrastructure-as-a-Service (IaaS)</h5>
+<p>Bei <strong>IaaS</strong> hast du direkten Zugriff auf deinen Server (dieser kann physisch oder virtuell sein) und du kannst dort tun was du willst. Der Provider kümmert sich nur um die Vor-Ort Wartung.</p>
+<h5 id="platform-as-a-service-paas">Platform-as-a-Service (PaaS)</h5>
+<p>Bei <strong>PaaS</strong> kümmert sich der Cloud Provider um die Plattform (Hardware und OS) von deinem Server und du kümmerst dich nur noch um die Software auf deinem Server.</p>
+<h5 id="software-as-a-service-saas">Software-as-a-Service (SaaS)</h5>
+<p>Bei <strong>SaaS</strong> bietet dir der Provider eine fertige Software zum benutzen an. Software-as-a-Service richtet sich meist an Endkunden (z.B.: GMail)</p>
+<h3 id="aws-infrastruktur-">AWS Infrastruktur</h3>
+<p>AWS hat 3 Arten von Infrastruktur Locations (sämtliche Locations findest du <a href="https://aws.amazon.com/about-aws/global-infrastructure/regions_az/">hier</a>):</p>
+<h5 id="region">Region</h5>
+<p>Eine Region in AWS ist eine geographische Zone (z.B.: London oder Franfurt). Jede Region besteht aus mindestens 2 Availability Zones (AZs)</p>
+<h5 id="availability-zone-az">Availability Zone (AZ)</h5>
+<p>Eine Availability Zone ist einfach gesagt ein oder mehrere Datenzentren.</p>
+<h5 id="edge-location">Edge Location</h5>
+<p>Edge Location sind CDN Punkte für CloudFront. Sie bieten dir die möglichkeit deinen Content schnell und einfach möglichst nahe an deine Endkunden zu platzieren. in Edge Locations können allerdings keine Daten gespeichert werden, sondern nur gecached.</p>
+<h3 id="aws-support-plans">AWS Support Plans</h3>
+<p>AWS bietet 3 unterschiedliche Support Plans für ihre Kunden an.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Basic</th>
+<th>Developer</th>
+<th>Business</th>
+<th>Enterprise</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Preis</td>
+<td>Gratis</td>
+<td>29$/Monat</td>
+<td>100$/Monat</td>
+<td>15.000$/Monat</td>
+</tr>
+<tr>
+<td>Nutzen</td>
+<td>Zum ausprobieren</td>
+<td>Zum experimentieren</td>
+<td>Für Firmen mit Produktivsystem in AWS</td>
+<td>Für Firmen mit kritischen System in AWS</td>
+</tr>
+<tr>
+<td>Support</td>
+<td>Kundenservice für Account &amp; Zahlung</td>
+<td>Support während Geschäftszeiten</td>
+<td>24/7 Support</td>
+<td>24/7 Support</td>
+</tr>
+<tr>
+<td>Support Reaktionszeit</td>
+<td>-</td>
+<td>Allgemein: &lt; 24 Stunden<br />Systemkritisch: &lt; 12 Stunden<br />Während Geschäftszeiten</td>
+<td>Allgemein: &lt; 24 Stunden<br />Systemstörung: &lt; 12 Stunden<br />Produktionssysteme betroffen: &lt; 4 Stunden<br />Produktionssysteme ausgefallen: &lt; 1 Stunde</td>
+<td>Allgemein: &lt; 24 Stunden<br />Systemstörung: &lt; 12 Stunden<br />Produktionssysteme betroffen: &lt; 4 Stunden<br />Produktionssysteme ausgefallen: &lt; 1 Stunde<br />Business Kritische Systeme ausgefallen: &lt; 15 Minuten</td>
+</tr>
+</tbody>
+</table>
+<h3 id="zugriff-auf-aws">Zugriff auf AWS</h3>
+<p>Es gibt 3 Arten wie du auf AWS Zugreifen kannst:</p>
+<ul>
+<li>Mit der Console (Web)</li>
+<li>Über das AWS Cli Tool (command line Interface)</li>
+<li>Mit dem AWS SDK</li>
+</ul>
+<h4 id="aws-root-account">AWS Root Account</h4>
+<p>Der AWS Root Account ist der Besitzer und hat komplette Admin Rechte. Er kann andere Nutzer erstellen und Rechte erteilen. Der Root User sollte aus sicherheitstechnischen Maßnahmen nie verwendet und mit multi-factor authentication (MFA) abgesichert sein.</p>
+<h4 id="groups">Groups</h4>
+<p>In Gruppen sammelst du dein Benutzer. Ein User in einer Gruppe hat sämtliche Rechte dieser Gruppe (z.B.: Developer, Operations,&hellip;etc).</p>
+<h4 id="policies">Policies</h4>
+<p>Rechte werden über Policies verteilt. Policies werden im JSON Format definiert.</p>
+<h2 id="aws-services">AWS Services</h2>
+<p>Nun kommen wir zum wichtigsten Thema, den grundlegenden AWS Services.</p>
+<h3 id="ec2">EC2</h3>
+<p>Amazon Elastic Compute Cloud (EC2) bietet dir die Möglichkeit skalierbare Rechenkapazität zu konfigurieren. Es ist möglich so viele EC2 Instanzen wie man will du deployen und auch automatisch zu skalieren.</p>
+<h6 id="grundlegende-ec2-funktionen">Grundlegende EC2 Funktionen</h6>
+<ul>
+<li>Umgebungen werden in sogenannten <strong>Instances</strong> deployed und verwaltet</li>
+<li>Es gibt Vorlagen (<em>Amazon Machine Images - AMIs</em>) welche für die Erstellung des Virtuellen Servers verwendet werden können</li>
+<li>Unterschiedliche Konfiguration für CPU, Arbeitsspeicher, Speicher und Netzwerkkapazität werden als <strong>Instance-Types</strong> bezeichent</li>
+<li>Es ist möglich einer EC2 Instanz eine statische IP zuzuweisen - In AWS heißt dies <em>Elastic IP Adresse</em></li>
+<li>Eine Instance kann temporäre Volumes oder persistenten Block Storage besitzen</li>
+<li>Durch <strong>EC2 Auto Scaling</strong> können jederzeit neue EC2 Instanzen gestartet bzw beendet werden.</li>
+</ul>
+<h5 id="arten-von-ec2-instanzen">Arten von EC2 Instanzen</h5>
+<p>EC2 bietet 3 unterschiedliche Instanzen an:</p>
+<ul>
+<li><strong>On-Demand Instanzen</strong>
+<ul>
+<li>On Demand Instanzen zahlst du pro benutzter Stunde und kannst sie jederzeit starten und beenden.</li>
+</ul>
+</li>
+<li><strong>Reserved Instanzen</strong>
+<ul>
+<li>Reservierte Instanzen bieten einen Rabatt (Bis zu 75%) gegenüber On-Demand Instanzen an. Du kannst allerdings trotzdem flexibel die Art von Instanz &amp; das Betriebssystem wählen.</li>
+</ul>
+</li>
+<li><strong>Spot Instanzen</strong>
+<ul>
+<li>Spot Instanzen erlauben es dir billig unbenutzte Ressourcen zu kaufen. Sie sind wesentlich billiger als On-Demand &amp; Reserved Instances, allerdings können sie jederzeit wieder beendet werden (Wenn die Ressourcen gebraucht werden) und stehen nicht immer zur Verfügung.</li>
+</ul>
+</li>
+</ul>
+<h3 id="aws-elasticbeanstalk">AWS Elasticbeanstalk</h3>
+<p>AWS ElasticBeanstalk ermöglicht es dir automatisch eine Infrastruktur für dein Projekt erstellen zu lassen. Du musst nur den Code auf AWS laden und AWS erstellt automatisch alle benötigten Services.</p>
+<h3 id="aws-lambda">AWS Lambda</h3>
+<p>AWS Lambda ermöglicht es dir Code auszuführen ohne Infrastruktur. Amazon kümmert sich im Hintergrund um alles und die Entwickler müssen sich keinen Kopf machen die Infrastruktur, Server Ressourcen oder Performance.</p>
+<h3 id="s3">S3</h3>
+<p>Amazon Simple Storage Service (S3) bietet Entwicklern einen sicheren, skalierbaren und hoch verfügbaren Objektspeicherservice. S3 kann mithilfe von der Web Console oder auch dem CLI und SDK verwendet werden. Die Daten werden redundant gespeichert.</p>
+<h5 id="grundlegende-s3-funktionen">Grundlegende S3 Funktionen</h5>
+<ul>
+<li>S3 ist Objektbasiert (man kann Dateien hochladen)</li>
+<li>Maximale Dateigröße ist 5TB</li>
+<li>S3 hat unlimitierten Speicherplatz (wird automatisch vergrößert &amp; man bezahlt nur benutzten Speicherplatz)</li>
+<li>Dateien werden in sogenannten <strong>Buckets</strong> gespeichert</li>
+<li>Amazon garantiert 99.9% <strong>Availability</strong> &amp; 99.999999999% (11x 9s) <strong>Durability</strong> für S3 Informationen</li>
+<li>Es gibt unterschiedliche Speicherlevels</li>
+<li>Lifecycle Mangement, Versioning &amp; Verschlüsselung sind möglich</li>
+<li>Zugriff auf S3 Buckets kann durch Access Control Lists (Objekt Level) und Bucket Policies (Bucket Level) eingeschränkt &amp; erweitert werden</li>
+</ul>
+<h5 id="data-consistency-model">Data Consistency Model</h5>
+<p>Im Data Consistency Model wird beschrieben wann Daten Verfügbar (gespeichert) sind in S3</p>
+<ul>
+<li>Neue Objekte sind sofort nach dem Schreiben verfügbar zum lesen</li>
+<li>Überschreiben und Löschen von Objekten kann eine Zeit dauern - vorallem wenn die Daten redundant in unterschiedlichen Zonen gespeichert sind</li>
+</ul>
+<h5 id="s3-speicherklassen">S3 Speicherklassen</h5>
+<p>In S3 gibt es unterschiedliche Speicherklassen welche sich im Preis, Durability und Availability unterscheiden.</p>
+<h6 id="s3-standard">S3 Standard</h6>
+<p>S3 Standard bietet niedrige Latenz und hohe Performance. Objekte haben 99.99% Availability und  99.999999999% Durability.</p>
+<h6 id="s3-intelligent-tiering">S3 Intelligent-Tiering</h6>
+<p>Das  S3 Intelligent-Tiering verschiebt Objekte automatisch zwischen den Unterschiedlichen Klassen um möglichst Kos­ten­ef­fi­zi­ent zu sein. Für diese Funktion zahlt man allerdings auch eine kleine Monitoring Gebühr.</p>
+<h6 id="s3-standard-infrequent-access--s3-standard-ia">S3 Standard-Infrequent Access  (S3 Standard-IA)</h6>
+<p>S3 Standard-Infrequent Access speichert Daten welche seltener aber trotzdem schnell gebraucht werden. S3 Standard IA hat niedrigere pro GB kosten aber dafür höhere Transferkosten.</p>
+<h6 id="s3-one-zone-infrequent-access--s3-one-zone-ia">S3 One Zone-Infrequent Access  (S3 One Zone-IA)</h6>
+<p>S3 One Zone IA hat die selbe Leistung wie Standard IA, kostet allerdings 20% weniger da die Daten nur in einer Zone gespeichert werden. Dadurch ist es allerdings wahrscheinlicher das Daten verloren gehen - hat nur eine 99.5% Availability.</p>
+<h6 id="s3-glacier">S3 Glacier</h6>
+<p>S3 Glacier speichert Daten billig und sicher - allerdings kann es bis zu 12 Stunden dauern um auf die Daten zugreifen zu können.</p>
+<h4 id="webseiten-hosten-in-s3">Webseiten Hosten in S3</h4>
+<p>S3 bietet einem die Möglichkeit eine Website zu hosten - allerdings darf diese Seite nur aus statischen Objekten bestehen (HTML, CSS, JS). Webseiten welche eine Datenbank oder Serverseitige Skripts benötigen (wie z.B.: Wordpress) können nicht auf S3 gehostet werden. Allerdings bietet S3 damit eine billige, einfache und schnelle Variante um statische Website zu hosten.</p>
+<h3 id="aws-cloudfront">AWS CloudFront</h3>
+<p>CloudFront ist Amazons CDN. Wir haben es bereits angesprochen in den Edge Locations. CloudFront speichert eine Kopie deiner Application in einem Datencenter welches näher an deinem Endkunden ist. Dadurch können Ladezeiten reduziert werden.</p>
+<h3 id="aws-kostenmangement">AWS Kostenmangement</h3>
+<p>In AWS gibt es ebenfalls einige Tools um dein Budget und deine Kosten zu managen, diese inkludieren AWS Budgets, AWS Cost &amp; Usage Reports und den AWS Cost Explorer.</p>
+<h3 id="amazon-rds">Amazon RDS</h3>
+<p>Amazon Relational Database Service (Amazon RDS) macht es einfach eine skalierbare, relationale Datenbank in der Cloud zu erstellen. Du kannst beim erstellen zwischen unterschiedlichen Datenbankprovidern wählen, unteranderem zwischen PostgreSQL, MySQL, Oracle DB und Microsoft SQL Server. Natürlich bietet Amazon auch eine hauseigene Datenbank Engine an, namens <strong>Amazon Aurora.</strong></p>
+<h3 id="amazon-dynamodb">Amazon DynamoDB</h3>
+<p>Amazon DynamoDB bietet einem eine Key-Value oder Document Datenbank (NoSQL Datenbank). Der Service wird komplett verwaltet von Amazon und kann mehr als 20 Millionen Zugriffe pro Sekunde verarbeiten.</p>
+<h3 id="amazon-vpc">Amazon VPC</h3>
+<p>Amazon Virtual Private Cloud (Amazon VPC) ist ein essentieller Teil von AWS. Dieser Service ermöglicht es dir ein Virtuelles Netzwerk zwischen deinen einzelnen Services zu erstellen. VPC ermöglicht es dir Subnets, Routing Tables, Network Gateways, und vieles mehr zu konfigurieren.</p>
+<p>Außerdem kannst du mithilfe eines hardware VPNs eine Verbindung zwischen deinem Lokalen Firmen Netz und dem Amazon VPC machen.</p>
+<h3 id="amazon-route53">Amazon Route53</h3>
+<p>Amazon Route53 ist ein hoch verfügbarer skalierbarer Domain Name Service (DNS). Route53 ermöglicht Latenzbasiertes Routing, Geo DNS und weighted Round Robin.</p>
+<h3 id="amazon-api-gateway">Amazon API Gateway</h3>
+<p>Amazon API Gateway ist ein managed Service welcher es Entwicklern ermöglicht APIs zu entwickeln, veröffentlichen und zu überwachen. Die Schnittstellen im API Gateway können dann verlinkt werden mit EC2 Instanzen oder AWS Lambda Funktionen.</p>
+<h3 id="elastic-load-balancing">Elastic Load Balancing</h3>
+<p>Elastic Load Balancing  (ELB) kann automatisch eingehende Verbindungen analysieren und Instanzen erstellen bzw zerstören. Hierbei kann man unterscheiden zwischen <strong>Application Load Balancer</strong> und <strong>Network Load Balancer</strong>.</p>
+<h3 id="abschließende-worte">Abschließende Worte</h3>
+<p>In diesem Artikel haben wir gelernt was Cloud Computing ist und wir haben die wichtigsten AWS Services kennen gelernt. Dieser Artikel soll eine Hilfe darstellen für das AWS Cloud Practitioner Zertifikat und keine 100% Anleitung. Ich empfehle trotzdem die verlinkten Ressourcen zu lesen und zu lernen (Vor allem das Overview Whitepaper), da ich in diesem Artikel nur auf die wichtigsten Services eingegangen bin.</p>
+<h3 id="wichtige-links-ressourcen">Wichtige Links&amp; Ressourcen</h3>
+<ul>
+<li><a href="https://aws.amazon.com/s3/">Amazon S3 Dokumentation</a></li>
+<li><a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html">Amazon EC2 Dokumentation</a></li>
+<li><a href="https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS_Certified_Cloud_Practitioner_Exam_Guide_v2.1.pdf">AWS Cloud Practitioner Exam Guide</a></li>
+<li><a href="https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practioner_Sample_Questions_v1.1_FINAL.PDF">AWS Cloud Practitioner Beispielfragen</a></li>
+<li><a href="https://d0.awsstatic.com/whitepapers/aws-overview.pdf">AWS Overview Whitepaper</a></li>
+<li><a href="https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf">AWS Architecture for the Cloud Whitepaper</a></li>
+<li><a href="https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf">AWS Pricing Whitepaper</a></li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/categories/aws/">AWS</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/aws/">AWS</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/cloud-practitioner/">Cloud Practitioner</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Einführung ins Österreichische Arbeitsrecht</title>
+                <link>http://professor-explains.world/posts/arbeitsrecht/01-introduction/</link>
+                <guid isPermaLink="true">http://professor-explains.world/posts/arbeitsrecht/01-introduction/</guid>
+                <pubDate>Mon, 06 Apr 2020 18:37:21 +0200</pubDate>
+                
+                    <author>professor-explains@protonmail.com (The Professor)</author>
+                
+                
+                
+                    <description><![CDATA[<p>Jeder Arbeitende Mensch in Österreich ist vom Arbeits- und Sozialrecht betroffen und jeder Mensch in Österreich sollte ein grundlegendes Verständnis von Arbeitsrecht haben. In dieser Serie werde ich versuchen die Grundzüge des Arbeitsrechts so einfach wie möglich zu erklären - und am Ende sollte ein jeder zumindest ein grundlegendes Verständnis von seinem eigenen Arbeitsvertrag haben und von seinen Rechten als Angestellter.</p>
+<p>Nun zur ersten Frage - was genau ist eigentlich das Arbeitsrecht? Einfach ausgedrückt ist das Arbeitsrecht das Recht der unselbstständigen Personen - dies umfasst sowohl Arbeiter als auch Angestellte (Auf den Unterschied werde ich später nochmal genauer eingehen).</p>
+<h3 id="welche-funktion-hat-das-arbeitsrecht">Welche Funktion hat das Arbeitsrecht</h3>
+<p>Das Arbeitsrecht hat 3 Grundlegende Funktionen:</p>
+<ul>
+<li>Schutzfunktion</li>
+<li>Ausgleichsfunktion</li>
+<li>Friedensfunktion</li>
+</ul>
+<p>Das Arbeitsrecht <strong>schützt</strong> die Angestellten durch das definieren von zwingenden Mindestarbeitsbedinungen.</p>
+<p>Des Weiteren dient das Arbeitsrecht dem <strong>Ausgleich</strong> zwischen dem <em>schwächeren</em> Arbeitnehmer und dem <em>stärkeren</em> Arbeitgeber.</p>
+<p>Die letzte Funktion des Arbeitsrechts ist die <strong>Friedensfunktion</strong> - das Arbeitsrecht trägt zum frieden bei indem es <strong>Soziale</strong> <strong>Konflikte</strong> (z.B.: Streik) zu vermeiden versucht.</p>
+<p>Viele Gesetzte im Arbeitsrecht sind <strong>einseitig zwingende</strong> Rechte. Dies bedeutet einfach gesagt, sie dürfen nur zum <strong>Vorteil</strong> und nicht zum Nachteil des <em>schwächeren</em> Vertragspartners geändert werden. Ein gutes Beispiel ist hierfür der Urlaubsanspruch. Vertraglich darf jederzeit <strong>mehr</strong> Urlaub vereinbart werden, nicht jedoch weniger als gesetzlich vorgeschrieben (Meist 5 Wochen).</p>
+<h3 id="welche-rechtsquellen--gesetztesbücher-beeinflussen-das-arbeitsrecht">Welche Rechtsquellen &amp; Gesetztesbücher beeinflussen das Arbeitsrecht?</h3>
+<p><img src="/images/arbeitsrecht/stufenbau_der_rechtsordnung.png" alt="Stufenbau der Rechtsordnung" style="zoom:30%;" /></p>
+<p>Wie man in dieser Grafik sehr schön erkennen kann, ist der Stufenbau der Rechtsordnung im Arbeitsrecht hierarchisch und recht simpel.</p>
+<p>Die Basis des Arbeitsrechts bildet das <strong>EU-Recht</strong>, welches aus Verordnungen und Richtlinien besteht. Darunter folgen <strong>Nationale Gesetze</strong> und <strong>Verordnungen</strong> sowie <strong>Kollektivverträge</strong> und <strong>Betriebsvereinbarung</strong>. Zum Schluss gibt es noch den <strong>Dienstvertrag</strong>. Wie man an dieser Reihenfolge sehr gut erkennen kann, geht das Arbeitsrecht vom Allgemeinen ins Spezifische.</p>
+<p>Das Arbeitsrecht gliedert sich aus vielen verschiedenen Quellen zusammen - einige davon sind:</p>
+<ul>
+<li>Das Angestelltengesetzt (AngG)</li>
+<li>Berufsausbildungsgesetzt (BAG)</li>
+<li>Mutterschutzgesetzt (MschG) sowie das Väterkarenzgesetzt (VKG)</li>
+<li>Arbeitszeitgesetzt (AZG)</li>
+<li>Urlaubsgesetzt (UrlG)</li>
+<li>Arbeitsrechtsanpassungsgesetz  (AVRAG)</li>
+</ul>
+<h3 id="der-arbeitsnehmer-im-arbeitsvertragsrecht">Der Arbeitsnehmer im Arbeitsvertragsrecht</h3>
+<p>Der Arbeitnehmer im Arbeitsvertragsrecht steht in einem <strong>Dauerschuldverhältnis</strong> zum Arbeitgeber und erbringt eine <strong>Dienstleistung auf vertraglicher Basis</strong>.</p>
+<p>Der AN steht zum AG sowohl in persönlicher als auch in wirtschaftlicher Abhängigkeit. Der AG hat gegenüber dem AN Weisungsrecht, welches ein Prägendes Merkmal des Arbeitsverhältnisses ist. Das Weisungsrecht gilt nicht nur für den <strong>Arbeitsort</strong>, die Arbeitszeit und das <strong>arbeitsbezogene Verhalten,</strong> sondern auch für sachliche Weisungen, die sich auf den Inhalt der Arbeitspflicht beziehen.</p>
+<p>Der AG kann selbst den AN wählen, allerdings <strong>Geschlechtsneutral</strong> und er unterliegt dem <strong>Diskriminierungsverbot</strong> - Hierbei gibt es allerdings Ausnahmen, z.B.: Wenn man eine weibliche Besetzung sucht für ein Theaterstück .</p>
+<p>Während dem Bewerbungsgespräch unterliegt der Arbeitnehmer grundsätzlich der Wahrheitspflicht - allerdings nur bis zu einem Gewissen Rahmen. Wenn es um seine Persönlichkeit und Datenschutz geht, darf der AN beim Bewerbungsgespräch auch lügen.</p>
+<h4 id="der-vertrag">Der Vertrag</h4>
+<p>Der Vertrag zwischen Arbeitnehmer und Arbeitgeber unterliegt keiner Formvorschrift, allerdings muss der AG dem AN zumindest einen Dienstzettel ausstellen - dieser enthält die wesentlichen Rechte und Pflichten des AN.</p>
+<h3 id="arbeiter-vs-angestellte">Arbeiter vs Angestellte</h3>
+<p>Kommen wir nun nochmal zur anfänglichen aufgestellten Unterscheidung zwischen Angestellte und Arbeiter.</p>
+<p>Angestellte sind, laut <a href="https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10008069&amp;FassungVom=2020-04-06&amp;Artikel=1&amp;Paragraf=1&amp;Anlage=&amp;Uebergangsrecht=">§1 AngG</a>:</p>
+<blockquote>
+<p>(1) Dieses Bundesgesetz gilt für das  Dienstverhältnis von Personen, die im Geschäftsbetrieb eines Kaufmannes  vorwiegend zur Leistung kaufmännischer (Handlungsgehilfen) oder höherer, nicht kaufmännischer Dienste oder zu Kanzleiarbeiten angestellt sind.</p>
+<p>(2) Bei einem Kaufmann angestellte Personen, die nur ausnahmsweise zu  kaufmännischen Diensten verwendet werden, sowie Personen, die vorwiegend untergeordnete Verrichtungen leisten, sind nicht als Handlungsgehilfen  anzusehen.</p>
+</blockquote>
+<p>Dieser Wortlaut ist, wie fast alle Gesetzte, nicht nur unnötig Kompliziert sondern führt selbst unter Experten regelmäßig zu Verwirrung. Daher gibt es folgende Faustregel:</p>
+<p>wenn die <strong>gedankliche Arbeit</strong> die manuelle Arbeit <strong>überwiegt</strong> handelt es sich um einen Angestellten, ansonsten um einen Arbeiter (Ausnahme Lehrlinge).</p>
+<h3 id="abschließende-worte">Abschließende Worte</h3>
+<p>In dieser Einführung haben wir also den Grundbegriff des Arbeitsrechts kennen gelernt, wo es definiert ist und für wen es gilt. Des Weiteren haben wir den Unterschied zwischen Arbeitern und Angestellten kennen gelernt und definiert was der Arbeitnehmer laut Arbeitsrechtsvertrag ist. In dem nächsten Beitrag werden wir uns die unterschiedlichen Arten von Angestellten und Arbeitern anschauen sowie den Kollektivvertrag.</p>
+<h3 id="wichtige-links--quellen">Wichtige Links &amp; Quellen</h3>
+<ul>
+<li><a href="https://www.facultas.at/zinfo/9783708913759/Eichinger_Basiswissen_1516_Inhalt_Leseprobe.pdf">Basiswissen Arbeits- und Sozialrecht 2016</a></li>
+<li><a href="https://www.arbeiterkammer.at">Arbeiterkammer</a></li>
+<li><a href="https://www.jusline.at/gesetz/angg">Angestelltengesetzt Jusline</a></li>
+<li>Arbeits- und Sozialrecht, Panic Harun</li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/categories/arbeitsrecht/">Arbeitsrecht</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/arbeitsrecht/">Arbeitsrecht</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
