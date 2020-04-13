@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
     <title type="text">The Professor Explains</title>
     <subtitle type="html">Der Professor erklärt die Welt. Alles von Allgemeinbildung bis hin zu skurrilen Themen.</subtitle>
-    <updated>2020-04-13T12:37:33+02:00</updated>
+    <updated>2020-04-13T12:38:23+02:00</updated>
     <id>http://professor-explains.world/</id>
     <link rel="alternate" type="text/html" href="http://professor-explains.world/" />
     <link rel="self" type="application/atom+xml" href="http://professor-explains.world/atom.xml" />
