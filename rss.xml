@@ -21,10 +21,198 @@
             <webMaster>professor-explains@protonmail.com (The Professor)</webMaster>
         
         
-        <lastBuildDate>Mon, 13 Apr 2020 12:38:23 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2020 14:05:03 +0200</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="http://professor-explains.world/rss.xml" />
         
+        
+            <item>
+                <title>Privater Plex Server in Minuten mit Docker</title>
+                <link>http://professor-explains.world/posts/docker/01-plex-server-docker/</link>
+                <guid isPermaLink="true">http://professor-explains.world/posts/docker/01-plex-server-docker/</guid>
+                <pubDate>Tue, 14 Apr 2020 10:44:47 +0200</pubDate>
+                
+                    <author>professor-explains@protonmail.com (The Professor)</author>
+                
+                
+                
+                    <description><![CDATA[<p>Plex ist ein Multimedia Streaming Dienst - im Prinzip wie Netflix, allerdings mit deiner eigenen Videothek. In dieser Anleitung zeige ich dir, wie du in wenigen Minuten deinen eigenen Plex Server aufsetzten kannst mithilfe von <a href="https://www.docker.com/">Docker</a>.</p>
+<p>Für dieses Tutorial setzte ich voraus, dass du bereits Docker und docker-compose auf deinem System installiert hast. Um deinen Plex Server zu verwenden brauchst du außerdem einen <a href="https://www.plex.tv/">Plex Account</a>. Ich verwende für diese Anleitung eine Virtuelle Maschine mit Debian Version 10.3 installiert, da Docker am besten auf Linux funktioniert - du kannst das ganze aber natürlich problemlos auch auf Windows oder Mac durchführen.</p>
+<h3 id="plex-docker-image">Plex Docker Image</h3>
+<p>In diesem Tutorial werden wir das offizielle <a href="https://hub.docker.com/r/plexinc/pms-docker">Plex Docker Image</a> (<a href="https://github.com/plexinc/pms-docker">GitHub</a>) verwenden. Wenn du lieber ein anderes Image (z.B.: von Linuxservers) verwenden willst, kannst du dies gerne tun und dieses Tutorial als Vorlage verwenden - für Image Spezifische Einstellungen kannst du die Image GitHub bzw DockerHub Seite des jeweiligen Images konsultieren.</p>
+<p>Bevor du allerdings deinen Plex Server startest musst du dich entscheiden in welchem Netzwerk Setting dein Server laufen soll, mit dem offiziellen Plex Image hast du folgende Möglichkeiten:</p>
+<ul>
+<li>Bridge</li>
+<li>Host</li>
+<li>macvlan</li>
+</ul>
+<h6 id="bridge">Bridge</h6>
+<p>Mit dem <em>Bridge</em> Modus wird ein komplett neues Netzwerk erstellt und mit einem internen Router und Netzwerk Konfiguration werden die Daten an den Container weiter geleitet.</p>
+<p>Dieser Modus ist der Standardmodus, allerdings auch der komplexeste, da du wahrscheinlich extra Netzwerk Einstellungen vornehmen musst.</p>
+<h6 id="host">Host</h6>
+<p>Der <em>Host</em> Modus tut so als wäre dein PC der Plex Server und verwendet die selbe IP Adresse wie dein PC. Dieser Modus ist der leichteste und auch der welchen wir in dieser Anleitung verwenden werden - allerdings kann es, abhängig von deinen Netzwerkeinstellungen, sein, dass dieser Modus nicht funktioniert.</p>
+<h6 id="macvlan">Macvlan</h6>
+<p>Der <em>Macvlan</em> Modus hat ein ähnliches Setup wie der <em>Host</em>  Modus und er simuliert eine Virtuelle Maschine auf welchem der Plex server läuft.</p>
+<hr>
+<p>Welchen Modus du verwendest ist komplett dir überlassen, jeder hat seine eigene Vor- und Nachteile, für diese Anleitung werden wir allerdings den <em>Host</em> Modus verwenden, da dieser der leichteste von allen ist und die Überschrift dieser Anleitung ist immerhin &ldquo;Privater Plex Server in <em>wenigen</em> Minuten&rdquo;.</p>
+<h3 id="docker-compose">Docker-Compose</h3>
+<p>Im GitHub Repository findet man ein Docker Compose Template für alle 3 Netzwerk Varianten, das für Host schaut so aus:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-yaml" data-lang="yaml"><span class="k">version</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;2&#39;</span><span class="w">
+</span><span class="w"></span><span class="k">services</span><span class="p">:</span><span class="w">
+</span><span class="w">  </span><span class="k">plex</span><span class="p">:</span><span class="w">
+</span><span class="w">    </span><span class="k">container_name</span><span class="p">:</span><span class="w"> </span>plex<span class="w">
+</span><span class="w">    </span><span class="k">image</span><span class="p">:</span><span class="w"> </span>plexinc/pms-docker<span class="w">
+</span><span class="w">    </span><span class="k">restart</span><span class="p">:</span><span class="w"> </span>unless-stopped<span class="w">
+</span><span class="w">    </span><span class="k">environment</span><span class="p">:</span><span class="w">
+</span><span class="w">      </span>- TZ=&lt;timezone<span class="sd">&gt;
+</span><span class="sd">      - PLEX_CLAIM=&lt;claimToken&gt;</span><span class="w">
+</span><span class="w">    </span><span class="k">network_mode</span><span class="p">:</span><span class="w"> </span>host<span class="w">
+</span><span class="w">    </span><span class="k">volumes</span><span class="p">:</span><span class="w">
+</span><span class="w">      </span>- &lt;path/to/plex/database&gt;<span class="p">:</span>/config<span class="w">
+</span><span class="w">      </span>- &lt;path/to/transcode/temp&gt;<span class="p">:</span>/transcode<span class="w">
+</span><span class="w">      </span>- &lt;path/to/media&gt;<span class="p">:</span>/data<span class="w">
+</span></code></pre></td></tr></table>
+</div>
+</div><p>Die Spezialisten unter euch werden sehen, dass dieses Template allerdings noch unter <em>Version: 2</em> läuft von Docker Compose, daher upgraden wir die Datei während wir sie auf unsere Konfiguration anpassen.</p>
+<p>Außerdem sehen wir bereits unter <em>volumes</em>, dass wir 3 Ordner brauchen für diesen Docker container.</p>
+<p><strong>Config</strong>, speichert logischerweise die Konfigurationen unseres Plex Servers</p>
+<p><strong>Transcode</strong>, ist der Ordner wo Plex seine Temporären Transcoding Files zwischenspeichert - dieser ist nicht verpflichtet und kann relativ groß werden (mehrere GB).</p>
+<p><strong>Data</strong> ist der wichtigste Ordner für dich, dort speicherst du deine Multimedia Dateien, damit Plex sie auslesen kann.</p>
+<p>In der Vorlage siehst du außerdem noch <strong>PLEX_CLAIM</strong>, dies ist ein Token welches du auf <a href="https://www.plex.tv/claim">https://www.plex.tv/claim</a> beantragen kannst, damit sich dein Server automatisch in deinen Account einloggt - ist aber ebenfalls nicht verpflichtend.</p>
+<p>Nun passen wir also die Vorlage an unseren Zweck an, bei mir sieht das dann so aus:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-yaml" data-lang="yaml"><span class="k">version</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;3&#39;</span><span class="w">
+</span><span class="w"></span><span class="k">services</span><span class="p">:</span><span class="w">
+</span><span class="w">  </span><span class="k">plex</span><span class="p">:</span><span class="w">
+</span><span class="w">    </span><span class="k">container_name</span><span class="p">:</span><span class="w"> </span>plex<span class="w">
+</span><span class="w">    </span><span class="k">image</span><span class="p">:</span><span class="w"> </span>plexinc/pms-docker<span class="w">
+</span><span class="w">    </span><span class="k">restart</span><span class="p">:</span><span class="w"> </span>unless-stopped<span class="w">
+</span><span class="w">    </span><span class="k">environment</span><span class="p">:</span><span class="w">
+</span><span class="w">      </span>- TZ=Europe/Vienna<span class="w">
+</span><span class="w">    </span><span class="k">network_mode</span><span class="p">:</span><span class="w"> </span>host<span class="w">
+</span><span class="w">    </span><span class="k">volumes</span><span class="p">:</span><span class="w">
+</span><span class="w">      </span>- /home/professor/plex/config<span class="p">:</span>/config<span class="w">
+</span><span class="w">      </span>- /home/professor/plex/transcode<span class="p">:</span>/transcode<span class="w">
+</span><span class="w">      </span>- /home/professor/plex/data<span class="p">:</span>/data<span class="w">
+</span></code></pre></td></tr></table>
+</div>
+</div><p>Ich habe meine Plex relevanten Ordner alle in meinem Home Verzeichnis in einem plex Ordner angelegt, in diesem Ordner liegt auch meine docker-compose Datei. Die <strong>PLEX_CLAIM</strong> Variable habe ich absichtlich ausgelassen, wenn du sie trotzdem einbauen willst, kannst du den Anmelde Schritt überspringen.</p>
+<p>Diese angepasste Datei speichern wir nun in einem <em>docker-compose.yml</em> File ab, ich habe meines, wie gesagt, ebenfalls im Ordner ~/plex/ abgelegt - das kannst du aber frei entscheiden.</p>
+<p>In meinem ~/plex/data Ordner habe ich bereits ein paar Unterordner erstellt für Filme und TVShows, damit wir später leichter die Mediathek sortieren können, meine Ordnerstruktur schaut also folgendermaßen aus:</p>
+<p><img src="/images/docker/folderstructure_01.png" alt=""></p>
+<p>Damit sind wir an sich fertig mit den Docker Einstellungen und alles was wir nun tun müssen ist, den Container zu starten. Dies tun wir mit folgendem command (das Command musst du im selben Ordner ausführen in dem dein docker-compose.yml File liegt):</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">$ docker-compose up -d
+</code></pre></td></tr></table>
+</div>
+</div><p><em>Es kann sein, dass du dieses Command mit sudo ausführen musst.</em></p>
+<h3 id="plex-einrichten">Plex einrichten</h3>
+<p>Sobald du den Docker container gestartet hast, solltest du ihn mit folgendem Command in der Liste deiner laufenden Docker Prozesse sehen können:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">$ docker ps
+</code></pre></td></tr></table>
+</div>
+</div><p>Wenn dein Docker Prozess problemlos läuft, kannst du anfangen deinen Plex Server einzurichten, hierfür gehst du auf http://localhost:32400/web (Sollte dein Plex Server nicht am selben PC laufen, musst du statt localhost die IP Adresse des anderen PCs eingeben). Sobald du dies getan hast, solltest du automatisch auf folgende Webseite weiter geleitet werden:</p>
+<p><img src="/images/docker/plex_01.png" alt=""></p>
+<p>Hier loggst du dich nun mit deinem Plex Account ein - solltest du noch keinen haben kannst du ihn hier auch erstellen.</p>
+<p>Sobald du das getan hast wirst du auf folgende Seite weitergeleitet:</p>
+<p><img src="/images/docker/plex_02.png" alt=""></p>
+<p>Hier kannst du deinem Plex Server einen Namen geben um ihn besser identifizieren zu können, außerdem kannst du Plex anweisen, dass es automatisch versuchen soll deinen Server vom Internet aus erreichbar zu machen (Wenn das fehlschlägt musst du vielleicht einige Ports auf deinem Router freischalten).</p>
+<p>Im nächsten Schritt richten wir nun unsere Mediathek ein - idealerweise hast du einen Ordner für Filme, einen für TVShows, einen für Musik und einen für Fotos. Für jeden dieser Ordner legst du nun in Plex eine Mediathek an.</p>
+<p><img src="/images/docker/plex_03.png" alt=""></p>
+<p><img src="/images/docker/plex_04.png" alt=""></p>
+<p><img src="/images/docker/plex_05.png" alt=""></p>
+<p><img src="/images/docker/plex_06.png" alt=""></p>
+<p><img src="/images/docker/plex_07.png" alt=""></p>
+<p>Sobald du alle deine Mediatheken hinzugefügt hast, kannst du auf Weiter drücken.</p>
+<p><img src="/images/docker/plex_08.png" alt=""></p>
+<p>Gratulation - du hast gerade deinen eigenen Plex Server in nur wenigen Minuten eingerichtet. Nun kannst du anfangen deine Videos, Fotos und Musik in die jeweiligen Ordner zu kopieren und in deinem Heimnetzwerk zu streamen.</p>
+<p><strong>Wichtig:</strong> Plex versucht automatisch Informationen zu deinen Dateien zu laden, allerdings ist es dafür am besten, wenn die Dateien nach einem bestimmte Schema benannt sind, mehr darüber erfährst du <a href="https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/">hier</a> und <a href="https://support.plex.tv/articles/naming-and-organizing-your-movie-media-files/">hier</a>.</p>
+<h3 id="abschließende-worte">Abschließende Worte</h3>
+<p>Jetzt wo du deinen Plex Server eingerichtet hast, kannst du ihn nach deinem Geschmack anpassen, du kannst das Menü anpassen, mit welchem Agenten Plex nach Videoinformationen sucht und andere Plex User freigeben für deinen Server. Um mehr darüber zu erfahren, wie du mit Plex umgehen kannst, schau dir meine verlinkten Artikel unter <em>Links &amp; Ressourcen</em> an.</p>
+<h3 id="links--ressourcen">Links &amp; Ressourcen</h3>
+<ul>
+<li><a href="https://support.plex.tv/articles/">Plex Support Seite</a></li>
+<li><a href="https://docs.docker.com/">Docker Dokumentation</a></li>
+<li><a href="https://forums.plex.tv/tag/server-docker">Plex Forum - Docker Tag</a></li>
+</ul>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/categories/docker/">Docker</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/docker/">Docker</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="http://professor-explains.world/tags/tutorial/">Tutorial</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Rechte und Pflichten des Arbeitnehmers und Arbeitgebers</title>
